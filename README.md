@@ -43,8 +43,8 @@ Where `λ` is a weight factor that balances route efficiency and attraction appe
 
 - ## Authors
 
-- **Zhaoheng Li** — zhaoheng.li@mail.utoronto.ca  
-- **Songyuan Sang** — kevin.sang@mail.utoronto.ca
+- **Zhaoheng Li** 
+- **Songyuan Sang** 
 
 ## Related Medium Article
 
