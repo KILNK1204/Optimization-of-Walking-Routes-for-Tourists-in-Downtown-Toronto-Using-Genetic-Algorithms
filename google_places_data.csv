@@ -1,0 +1,748 @@
+Type,Name,Address,Rating,Total User Ratings,Place ID,Types,Latitude,Longitude
+amusement_park,Casa Loma Escape Rooms,"1 Austin Terrace, Toronto",4.7,617,ChIJy584up00K4gRuJQeztNVwRQ,"tourist_attraction, amusement_park, point_of_interest, establishment",43.6780932,-79.4093817
+amusement_park,Centreville Amusement Park,"84 Advance Road, Etobicoke",3.9,9,ChIJ6_xrSrY3K4gRFSNjwIuKX8c,"amusement_park, point_of_interest, establishment",43.6203544,-79.3735268
+amusement_park,Sky Zone Trampoline Park,"45 Esandar Drive, Toronto",4.2,3341,ChIJqbbhcefM1IkRgfZEmuQ-LXU,"amusement_park, point_of_interest, establishment",43.70652370000001,-79.3569392
+amusement_park,Centreville Amusement Park,"9 Queens Quay West, Toronto",4.4,5891,ChIJHfvjUSrL1IkRKR1Q--KUUi8,"amusement_park, tourist_attraction, park, point_of_interest, establishment",43.6202922,-79.3735438
+amusement_park,Sunnybrook Park,"1132 Leslie Street, Toronto",4.7,2495,ChIJrZ_nzyTN1IkRGDI7K0ZHKpY,"park, amusement_park, point_of_interest, establishment",43.72432079999999,-79.3579026
+amusement_park,Splash Pad,"5 The Mall, Toronto",4.2,5,ChIJO6Blm7bK1IkReixXfPDY4G8,"amusement_park, point_of_interest, establishment",43.6168734,-79.37431699999999
+amusement_park,Shotgun Golf Indoor Range,"3240 Dufferin Street Unit 8, Toronto",4.9,55,ChIJIQIkIRIzK4gRVrrNJO3DMHU,"amusement_park, store, health, point_of_interest, establishment",43.71991149999999,-79.45695239999999
+aquarium,Aquarium Service Toronto,"945 Weston Road, Toronto",4.8,61,ChIJs5b3cLI2K4gR-xWqvHEMxr8,"aquarium, pet_store, store, point_of_interest, establishment",43.6834059,-79.48128679999999
+aquarium,Ripley's Aquarium of Canada,"288 Bremner Boulevard, Toronto",4.6,60314,ChIJWwS21dU0K4gRPSGMKRkar40,"aquarium, point_of_interest, establishment",43.6421785,-79.3866022
+aquarium,Spring & Rain Gardens,"673 Gerrard Street East, Toronto",4.6,70,ChIJLV9dnmXL1IkRlyxNogLc8wk,"florist, aquarium, store, point_of_interest, establishment",43.6660152,-79.3495284
+aquarium,Aquarium Toronto,"292 Bremner Boulevard, Toronto",4.5,179,ChIJF86awk81K4gR2kqDcwqPJqI,"aquarium, point_of_interest, establishment",43.64238,-79.38648769999999
+aquarium,Reef Design Johansen,"495 Oriole Parkway, Toronto",5,4,ChIJ03w_6s0zK4gRvXVAa_dPJ8E,"aquarium, point_of_interest, establishment",43.70436469999999,-79.4055735
+aquarium,Aquaria Care Toronto,"BY APPOINTMENT ONLY, 2446 Danforth Avenue Unit #3, Toronto",4.3,3,ChIJi-dl1gPN1IkRxkYqPzlf4d8,"aquarium, pet_store, store, point_of_interest, establishment",43.6877602,-79.304465
+aquarium,Ruffin's Pet Centres Toronto,"2299 Bloor Street West, Toronto",4.7,50,ChIJ2cLF-PY3K4gRKDEQ_6H8610,"pet_store, aquarium, store, point_of_interest, establishment",43.6502082,-79.4791554
+aquarium,Toronto Aquarium Service,"Not open to the public, 2861 Saint Clair Avenue East, Toronto",5,7,ChIJBcypxDLM1IkR0RXENqtMpxw,"aquarium, pet_store, store, point_of_interest, establishment",43.707219,-79.30373770000001
+art_gallery,Gladstone House,"1214 Queen Street West, Toronto",4.4,2785,ChIJwScp6qo1K4gRcuheo9LY6ZI,"art_gallery, bar, lodging, restaurant, food, point_of_interest, establishment",43.642698,-79.426906
+art_gallery,The Power Plant Contemporary Art Gallery,"231 Queens Quay West, Toronto",4.4,513,ChIJsWiClCo1K4gRclG33Mzc3qM,"art_gallery, tourist_attraction, point_of_interest, establishment",43.6384653,-79.3818612
+art_gallery,Alliance Francaise Toronto - Downtown Campus,"24 Spadina Road, Toronto",4.4,125,ChIJlfAKvJc0K4gRV3HYEeXB_Rw,"art_gallery, point_of_interest, establishment",43.668753,-79.4052322
+art_gallery,"Mercer Union, a centre for contemporary art","1286 Bloor Street West, Toronto",4.5,40,ChIJlbRkGUQ0K4gRWA42x2vxH9U,"art_gallery, point_of_interest, establishment",43.65875860000001,-79.4419975
+art_gallery,Gallery 235 - Harbourfront Centre,"235 Queens Quay West, Toronto",4.3,16,ChIJ_fLThyo1K4gRgObYfaSSiQs,"art_gallery, point_of_interest, establishment",43.6386535,-79.3830116
+art_gallery,Bay of Spirits Gallery,"250 The Esplanade, Toronto",4.4,19,ChIJC6uKjtM0K4gRGi_9Bz9Oi3M,"art_gallery, point_of_interest, establishment",43.6497892,-79.3644351
+art_gallery,SOHO Art & Custom Framing,"111 Roncesvalles Avenue, Toronto",4.4,107,ChIJFwcE5bU1K4gRF3bBc7AKy1s,"art_gallery, store, point_of_interest, establishment",43.64241150000001,-79.44733269999999
+art_gallery,Gallery 1313,"1313 Queen Street West, Toronto",4.6,87,ChIJW3jTSKw1K4gRV8cu4nJkYqs,"art_gallery, point_of_interest, establishment",43.6410629,-79.43345699999999
+art_gallery,Bernardi's Antiques,"699 Mount Pleasant Road, Toronto",4.8,44,ChIJ9xu3LjAzK4gRVhFWFTxHk5s,"art_gallery, furniture_store, home_goods_store, store, point_of_interest, establishment",43.70641899999999,-79.389208
+art_gallery,John Steinberg & Associates Hair Salon,"906 Dundas Street West, Toronto",4.9,148,ChIJkXGZ9940K4gR5FUaz_IVXlY,"beauty_salon, art_gallery, hair_care, point_of_interest, establishment",43.6511529,-79.41232889999999
+art_gallery,Dont Tell Mama,"108 Ossington Avenue, Toronto",4,3,ChIJhXqEIPw0K4gRgUIfxinxzy4,"art_gallery, furniture_store, home_goods_store, store, point_of_interest, establishment",43.64653860000001,-79.41994509999999
+art_gallery,Canvas Gallery,"344 Westmoreland Avenue North #104A, Toronto",4.7,42,ChIJ34mve2Q0K4gRfwCo2hrcn50,"art_gallery, point_of_interest, establishment",43.6708715,-79.43466370000002
+art_gallery,Twist Gallery,"1100 Queen Street West, Toronto",4.7,98,ChIJb0iX1f80K4gR4d-teJHDhPA,"art_gallery, point_of_interest, establishment",43.6435709,-79.4228856
+art_gallery,Preservation House,"461 King Street East, Toronto",5,4,ChIJ_0S5-z7L1IkR_LxL2F6sSnc,"art_gallery, store, point_of_interest, establishment",43.65388470000001,-79.3609373
+art_gallery,Nicholas Metivier Gallery,"190 Richmond Street East, Toronto",4.7,19,ChIJO_8lXdk0K4gR7XC29nK5jmQ,"art_gallery, point_of_interest, establishment",43.652915,-79.37175599999999
+art_gallery,D & E Lake Ltd. Fine Arts,"1199 Yonge Street, Toronto",2.3,6,ChIJvSTV_VkzK4gR6snPAUS4MG8,"art_gallery, book_store, store, point_of_interest, establishment",43.6829765,-79.3916352
+art_gallery,COOPER COLE,"1134 Dupont Street and, 1136 Dupont Street, Toronto",4.9,32,ChIJN_ADPvk0K4gRWJa4Smex6uo,"art_gallery, point_of_interest, establishment",43.66888590000001,-79.43809110000001
+art_gallery,Loch Gallery,"16 Hazelton Avenue, Toronto",4.7,9,ChIJXW5xDaU0K4gR_fT0NCWVEY8,"art_gallery, point_of_interest, establishment",43.671309,-79.393537
+art_gallery,Trinity Square Video,"401 Richmond Street West #121, Toronto",4.9,15,ChIJvWoHrNs0K4gROhSTn9WSZSM,"movie_rental, art_gallery, store, point_of_interest, establishment",43.647884,-79.394823
+art_gallery,State Of The Art Gallery Inc,"1541A Bayview Avenue, East York",5,11,ChIJfecN_s3M1IkRpY2ILruUu88,"art_gallery, store, point_of_interest, establishment",43.7051017,-79.3747276
+bakery,Tim Hortons,"55 York Street, Toronto",3.9,1731,ChIJcfAUD9M0K4gRaEg0EJkSGKo,"cafe, bakery, restaurant, food, point_of_interest, store, establishment",43.6461046,-79.3825715
+bakery,Tim Hortons,"1910 Yonge Street, Toronto",3.1,524,ChIJv8wTrzgzK4gR4mfxEt0mcCc,"cafe, bakery, restaurant, food, point_of_interest, store, establishment",43.6984848,-79.3968824
+bakery,Tim Hortons,"246 Bloor Street West, Toronto",3.7,1142,ChIJJYPgm7w0K4gRcHLkGIzlDUc,"cafe, bakery, restaurant, food, point_of_interest, store, establishment",43.6681762,-79.39768780000001
+bakery,Brick Street Bakery,"27 Trinity Street, Toronto",4.3,429,ChIJv1iSxz3L1IkRFMzOYoukdzQ,"bakery, food, point_of_interest, store, establishment",43.6505485,-79.3595254
+bakery,Tim Hortons,"College Park, Street Level Street Level, 444 Yonge Street, Toronto",3.5,732,ChIJ-Zyf_7Q0K4gRDF2_RuBM3-U,"cafe, bakery, restaurant, food, point_of_interest, store, establishment",43.6612094,-79.3833236
+bakery,Tim Hortons,"metro Centre, 200 Wellington Street West Unit 360, Toronto",3.3,61,ChIJl5rPRtE0K4gR7mzpUaCiSEI,"cafe, bakery, restaurant, food, point_of_interest, store, establishment",43.6458998,-79.3879178
+bakery,Tim Hortons,"2700 Dufferin Street, Toronto",3.8,737,ChIJSyWgvukzK4gRlCeQssJwTAQ,"cafe, bakery, restaurant, food, point_of_interest, store, establishment",43.70118119999999,-79.45251879999999
+bakery,Baskin-Robbins,"1530 Bayview Avenue, Toronto",3.7,130,ChIJBSFY_s3M1IkR12A4JpDGdGg,"bakery, food, point_of_interest, store, establishment",43.7044584,-79.3749072
+bakery,Tim Hortons,"18 King Street East Suite 105, Toronto",3.6,856,ChIJcQGmZDLL1IkRUftlAxboh6Q,"cafe, bakery, restaurant, food, point_of_interest, store, establishment",43.6494942,-79.37693689999999
+bakery,Tim Hortons,"St. Mike's Hospital Main Cafeteria, 30 Bond Street, Toronto",3.2,45,ChIJi7ufajPL1IkRb7dRurPcvIs,"cafe, bakery, restaurant, food, point_of_interest, store, establishment",43.6537678,-79.37832120000002
+bakery,Tim Hortons,"323 Richmond Street East, Toronto",3.5,721,ChIJvfad4jnL1IkRt2xD1IWWFfA,"cafe, bakery, restaurant, food, point_of_interest, store, establishment",43.6532732,-79.368696
+bakery,Tim Hortons,"250 Bloor Street East, Toronto",4.1,70,ChIJ3eveSVPL1IkR3YyH6f40hys,"cafe, bakery, restaurant, food, point_of_interest, store, establishment",43.67199889999999,-79.3808914
+bakery,Loblaws Dundas Street,"2280 Dundas Street West, Toronto",3.8,1190,ChIJZ1M7Zjc0K4gR8EfV36jQpDI,"grocery_or_supermarket, bakery, food, point_of_interest, store, establishment",43.655111,-79.449349
+bakery,Tim Hortons,"731 Eastern Avenue, Toronto",3.7,1255,ChIJ4Wl6QpzL1IkR1RezIVRZPhg,"cafe, bakery, restaurant, food, point_of_interest, store, establishment",43.6595913,-79.32915849999999
+bakery,Tim Hortons,"1728 Bloor Street West, Toronto",4,1028,ChIJD4pXIjA0K4gR7BJ_ZRPzz3M,"cafe, bakery, restaurant, food, point_of_interest, store, establishment",43.65532369999999,-79.4587171
+bakery,Loblaws St Clair Avenue,"396 Saint Clair Avenue West, Toronto",4.1,3301,ChIJPci46HwzK4gRuVkPFyNty-U,"grocery_or_supermarket, bakery, health, food, point_of_interest, store, establishment",43.684188,-79.41548499999999
+bakery,Tim Hortons,"50 Bloor Street West Unit C23A, Toronto",3.4,120,ChIJHeYziq40K4gRhMyRqpmGvLU,"cafe, bakery, restaurant, food, point_of_interest, store, establishment",43.67030969999999,-79.38815029999999
+bakery,Krispy Kreme Café,"215 Harbord Street, Toronto",4.3,847,ChIJHbVSSZM0K4gR58QBG6X5uKM,"cafe, bakery, food, point_of_interest, store, establishment",43.661484,-79.409399
+bakery,Carole's Cheesecake Cafe & NDLG Bar,"114 Cumberland Street, Toronto",3.9,491,ChIJk8cZYKU0K4gRQFs8JLKZWjM,"restaurant, cafe, meal_takeaway, meal_delivery, bakery, food, point_of_interest, store, establishment",43.67028810000001,-79.3916795
+bakery,Tim Hortons,"334 Bloor Street West, Toronto",3.6,741,ChIJW8gjQJY0K4gRJUcNBH9kzNY,"cafe, bakery, restaurant, food, point_of_interest, store, establishment",43.66673369999999,-79.4043195
+bar,The Drake Hotel,"1150 Queen Street West, Toronto",4.3,5249,ChIJ8b_aGgA1K4gR3n2TF4fM1Es,"bar, lodging, restaurant, food, point_of_interest, establishment",43.6432497,-79.4246963
+bar,Shangri-La Toronto,"188 University Avenue, Toronto",4.6,3273,ChIJJTGWAdI0K4gRDUDEGIaqOTc,"bar, lodging, point_of_interest, establishment",43.6491695,-79.3861143
+bar,Gladstone House,"1214 Queen Street West, Toronto",4.4,2785,ChIJwScp6qo1K4gRcuheo9LY6ZI,"art_gallery, bar, lodging, restaurant, food, point_of_interest, establishment",43.642698,-79.426906
+bar,The Rex Hotel Jazz and Blues Bar,"194 Queen Street West, Toronto",4.4,3525,ChIJUxg5Mc40K4gRqeelKegdE3c,"night_club, bar, lodging, restaurant, food, point_of_interest, establishment",43.6505964,-79.3885233
+bar,HOTEL OCHO,"195 Spadina Avenue, Toronto",4.3,703,ChIJM9YdEZk0K4gRxwikpBboKTM,"bar, lodging, restaurant, food, point_of_interest, establishment",43.6500042,-79.39639
+bar,Marquis Lounge and Bistro,"92 Peter Street, Toronto",4.4,9,ChIJd2daaNo0K4gRwWZtnRjAxgs,"restaurant, bar, food, point_of_interest, establishment",43.6469792,-79.3932286
+bar,7 West Cafe,"7 Charles Street West, Toronto",4,3078,ChIJs_Gr4rE0K4gR4PCci36eEkg,"cafe, meal_takeaway, meal_delivery, bar, restaurant, food, point_of_interest, establishment",43.6684876,-79.386714
+bar,The Keg Steakhouse + Bar - York Street,"165 York Street, Toronto",4.5,4167,ChIJ5V02ks00K4gRYYwaCejHhEE,"restaurant, bar, food, point_of_interest, establishment",43.6499945,-79.3839517
+bar,Jump Restaurant,"18 Wellington Street West, Toronto",4.2,1032,ChIJMT8zEy3L1IkRndhPq4mIQXk,"bar, restaurant, food, point_of_interest, establishment",43.64779109999999,-79.3782409
+bar,Real Sports,"15 York Street, Toronto",4.2,5180,ChIJt7OCSivL1IkRqoZxo87YSYc,"bar, restaurant, food, point_of_interest, establishment",43.64259329999999,-79.3800048
+bar,Jack Astor's Bar & Grill Front Street,"144 Front Street West, Toronto",4.2,7522,ChIJK2lqhdM0K4gRRLfXBys5VBc,"bar, restaurant, food, point_of_interest, establishment",43.6454042,-79.383916
+bar,Horseshoe Tavern,"370 Queen Street West, Toronto",4.5,2675,ChIJ7XS3FNs0K4gRWU6Z5iAzsE0,"bar, point_of_interest, establishment",43.6490702,-79.3958951
+bar,Canoe,"66 Wellington Street West 54th floor, Toronto",4.4,3238,ChIJKSp50NI0K4gR6C6L3yYqpYY,"bar, restaurant, food, point_of_interest, establishment",43.6475793,-79.38090369999999
+bar,Scotland Yard Pub,"56 The Esplanade, Toronto",4.4,2105,ChIJFy2acS7L1IkRpOsjQVss1yw,"bar, restaurant, food, point_of_interest, establishment",43.6470917,-79.37404169999999
+bar,SPIN Toronto,"461 King Street West Lower Level, Toronto",4.4,1980,ChIJ__QVOdk0K4gRM_dEhAgM-G4,"bar, restaurant, food, point_of_interest, establishment",43.6444688,-79.3961022
+bar,Madison Avenue Pub,"14 Madison Avenue, Toronto",4,4486,ChIJM6R305c0K4gRxOAecY-Pofk,"bar, restaurant, food, point_of_interest, establishment",43.667827,-79.403296
+bar,Snakes & Lattes Annex,"600 Bloor Street West, Toronto",4.5,2927,ChIJc-8hbJI0K4gRDhU_qf-1yII,"restaurant, cafe, bar, food, point_of_interest, store, establishment",43.66481889999999,-79.4131852
+bar,Bellwoods Brewery,"124 Ossington Avenue, Toronto",4.6,2211,ChIJfZ_ToP40K4gRdv1rlP_LNk0,"bar, restaurant, food, point_of_interest, establishment",43.64706899999999,-79.42008
+bar,KINKA IZAKAYA ORIGINAL,"398 Church Street, Toronto",4.4,2570,ChIJbaspIEvL1IkRRi1oy-QZAOs,"bar, restaurant, food, point_of_interest, establishment",43.66038139999999,-79.3790453
+bar,Little Anthony's,"121 Richmond Street West, Toronto",4.3,591,ChIJ36QBlc00K4gRe0jDQNV5ey0,"bar, restaurant, food, point_of_interest, establishment",43.65039559999999,-79.3843577
+beauty_salon,Hammam Spa by Céla King West,"602 King Street West, Toronto",4.3,697,ChIJBXrMXt40K4gRMXDfeVIucgA,"spa, hair_care, beauty_salon, point_of_interest, establishment",43.64456560000001,-79.4002979
+beauty_salon,Damara Day Spa - Yorkville,"66 Avenue Road, Toronto",4.5,352,ChIJZ5iu8aQ0K4gR6Xrk0gbAJhI,"hair_care, beauty_salon, spa, point_of_interest, store, establishment",43.6716044,-79.3956712
+beauty_salon,Concepts Salon & Spa,"60 Bloor Street West (concourse level, Toronto",4,243,ChIJUVe3yK80K4gR3tO65-UgyQw,"beauty_salon, point_of_interest, establishment",43.6702461,-79.3893585
+beauty_salon,03 Hair Salon,"161 Baldwin Street Unit: #4, Toronto",4.4,248,ChIJqxp60sM0K4gRKCN9Nr__Yos,"hair_care, beauty_salon, point_of_interest, establishment",43.6548709,-79.3999025
+beauty_salon,Essential Beauty Bar,"225 Queen Street West, Toronto",4.3,335,ChIJY5J5MM40K4gRtwChxgWoMf4,"beauty_salon, point_of_interest, establishment",43.6503688,-79.388055
+beauty_salon,Blo Blow Dry Bar,"626 King Street West Suite 102, Toronto",3.9,226,ChIJu3N6M940K4gR87SH6jSwab4,"hair_care, beauty_salon, point_of_interest, establishment",43.6444115,-79.4012044
+beauty_salon,Baywood Clinic,"1033 Bay Street suite 303, Toronto",4.6,112,ChIJg8Q6CrE0K4gRItiNOaDR3GY,"hair_care, beauty_salon, spa, health, point_of_interest, establishment",43.666027,-79.3874909
+beauty_salon,Studio 861 Hair & Spa,"956 College Street, Toronto",3.8,46,ChIJKVxClvc0K4gRWtJ1tzBh0xg,"hair_care, beauty_salon, point_of_interest, establishment",43.6536086,-79.4272022
+beauty_salon,Second Skin Medspa,"1 Eglinton Avenue East c400, Toronto",3.7,46,ChIJoQgRrzwzK4gRXRjS3vdCwDM,"spa, hair_care, beauty_salon, health, point_of_interest, establishment",43.7065725,-79.3978162
+beauty_salon,THE TEN SPOT,"916 Queen Street East, Toronto",4.6,341,ChIJ-3XJfYXL1IkRRXY9zwPlIJc,"spa, hair_care, beauty_salon, health, point_of_interest, establishment",43.6607255,-79.34212649999999
+beauty_salon,b.suite SALON,"132 Atlantic Avenue, Toronto",4.7,158,ChIJz1pMFAE1K4gRyDi81-_JEbw,"hair_care, beauty_salon, health, point_of_interest, establishment",43.63993199999999,-79.42139399999999
+beauty_salon,Fuzz Wax Bar Queen,"663 Queen Street West, Toronto",4.6,502,ChIJ99I2Kuc0K4gRo4teNRR74q8,"hair_care, beauty_salon, health, point_of_interest, establishment",43.6469837,-79.4043587
+beauty_salon,Marca College Hairdressing and Esthetics,"2902 Danforth Avenue, Toronto",4.4,445,ChIJI7pQoyHM1IkRWxcZz2tmiaw,"beauty_salon, point_of_interest, establishment",43.6901065,-79.294164
+beauty_salon,Aroma Waxing & Laser Clinic,"588 Bloor Street West, Toronto",4.6,437,ChIJFz5tapI0K4gRXstglu9eubI,"hair_care, beauty_salon, spa, health, point_of_interest, establishment",43.6649877,-79.4128164
+beauty_salon,The Curl Ambassadors Curly Hair Salon,"159 Harbord Street, Toronto",4.6,440,ChIJTUxlwJQ0K4gR0GCvby7hnAU,"hair_care, beauty_salon, point_of_interest, establishment",43.661914,-79.40693399999999
+beauty_salon,Gee Beauty,"2 Roxborough Street West, Toronto",4.7,138,ChIJcUpmH6g0K4gR07zSgc-H_0w,"beauty_salon, point_of_interest, establishment",43.6782499,-79.39038819999999
+beauty_salon,La Perla Salon & Spa,"112 Elizabeth Street, Toronto",4.5,163,ChIJ6-iM-Ms0K4gRCOH09j6qrlc,"beauty_salon, hair_care, spa, health, point_of_interest, establishment",43.6548941,-79.38515009999999
+beauty_salon,Jalouse Hair,"2467 Yonge Street, Toronto",4.9,50,ChIJy3p3xiMzK4gRsXf2CNLeKfM,"beauty_salon, point_of_interest, establishment",43.71153229999999,-79.3991221
+beauty_salon,Marlene,"96 Scollard Street, Toronto",N/A,N/A,ChIJZ3vih6U0K4gRsXuFyQHzw2w,"beauty_salon, point_of_interest, establishment",43.6720034,-79.3919789
+beauty_salon,Avola College Of Hairstyling And Esthetics,"282 Dundas Street East, Toronto",4.2,220,ChIJrTDQM0jL1IkRKOGnX4r8hjs,"beauty_salon, hair_care, school, point_of_interest, establishment",43.6585226,-79.3716918
+book_store,Silver Snail,"809 Queen Street West, Toronto",4.3,1192,ChIJh0zVxto0K4gRBzOqxCcVneg,"book_store, store, point_of_interest, establishment",43.6460389,-79.40896889999999
+book_store,AnimeXtreme Inc.,"327 Spadina Avenue Main Floor, Toronto",3.5,1460,ChIJB7FulMM0K4gR8Ng-upwyh2o,"home_goods_store, book_store, store, point_of_interest, establishment",43.6545736,-79.3982242
+book_store,Value Village,"924 Queen Street East, Toronto",4,1920,ChIJXX-kR3HL1IkRbyITjTRIEn4,"furniture_store, home_goods_store, book_store, clothing_store, store, point_of_interest, establishment",43.66083319999999,-79.34176529999999
+book_store,"Toys""R""Us","900 Dufferin Street, Toronto",4,322,ChIJ64iNI1s0K4gRXIn2niiP9eM,"book_store, clothing_store, store, point_of_interest, establishment",43.65701749999999,-79.4356241
+book_store,Indigo,"55 Bloor Street West, Toronto",4.5,2909,ChIJ0wq1Ztk0K4gRx4Bm0Zi7HEQ,"book_store, store, point_of_interest, establishment",43.6691513,-79.3888849
+book_store,Value Village,"2119 Danforth Avenue, Toronto",3.9,1704,ChIJadBgTGvM1IkRZDA8JhrUnds,"furniture_store, home_goods_store, book_store, clothing_store, store, point_of_interest, establishment",43.6857754,-79.3117589
+book_store,Value Village,"605 Rogers Road C1, York",4.1,2153,ChIJFQJnMqo2K4gROFFXfc1x_rk,"furniture_store, home_goods_store, book_store, clothing_store, store, point_of_interest, establishment",43.6817684,-79.4731331
+book_store,Type Books,"883 Queen Street West, Toronto",4.7,394,ChIJtUYmCeM0K4gRAqNppxmS5Zs,"book_store, store, point_of_interest, establishment",43.6455115,-79.41161439999999
+book_store,Indigospirit,"1 The PATH - First Canadian Place SM18, Toronto",4.4,141,ChIJf3Z9pdI0K4gRjarxiyfSe2U,"book_store, store, point_of_interest, establishment",43.6489768,-79.382409
+book_store,Ben McNally Books,"108 Queen Street East, Toronto",4.6,282,ChIJs1yWJM00K4gRgs0W7GBLO9A,"book_store, store, point_of_interest, establishment",43.6537411,-79.3737462
+book_store,BMV Books,"471 Bloor Street West, Toronto",4.7,3366,ChIJPz83mZY0K4gR56TW8EZWnSk,"book_store, store, point_of_interest, establishment",43.665826,-79.4068326
+book_store,BMV Books,"10 Edward Street, Toronto",4.6,1148,ChIJW1ipw8o0K4gRxftM6jm0J-o,"book_store, store, point_of_interest, establishment",43.6570169,-79.38174420000001
+book_store,Indigo - Yonge and Eglinton,"2300 Yonge Street, Toronto",4.5,2113,ChIJG9EZzzwzK4gRjzyr11ExIkk,"book_store, store, point_of_interest, establishment",43.70768919999999,-79.39879450000001
+book_store,The Beguiling,"319 College Street, Toronto",4.6,813,ChIJZd6aWpI0K4gRa3zM5MqoQv8,"book_store, store, point_of_interest, establishment",43.6574249,-79.4021343
+book_store,Come As You Are,"254 Augusta Avenue, Toronto",4.8,112,ChIJ99I2Kuc0K4gRaVuCrNFeYnc,"book_store, clothing_store, store, point_of_interest, establishment",43.6557685,-79.4027792
+book_store,Bakka-Phoenix Books,"84 Harbord Street, Toronto",4.8,347,ChIJ2_bqK-c0K4gRaGW13ible2U,"book_store, store, point_of_interest, establishment",43.6630875,-79.40283219999999
+book_store,Nautical Mind Bookstore,"249 Queens Quay West #108, Toronto",4.8,56,ChIJyzQ1jyk1K4gRC1cuZ4x-3b4,"book_store, store, point_of_interest, establishment",43.6384096,-79.386239
+book_store,D & E Lake Ltd.,"239 King Street East, Toronto",3.7,93,ChIJqZcscjrL1IkR-A8CsjEF14w,"home_goods_store, book_store, store, point_of_interest, establishment",43.6510495,-79.3686012
+book_store,George Brown College Campus Store,"200 King Street East, Toronto",3.5,66,ChIJMyTHjTDL1IkR-yRh-LVrWXI,"book_store, store, point_of_interest, establishment",43.6510711,-79.3698007
+book_store,She Said Boom! Books and Records,"393 Roncesvalles Avenue, Toronto",4.5,101,ChIJSW1b1TU0K4gRtfSl4Fifv54,"book_store, store, point_of_interest, establishment",43.6507452,-79.4506226
+bowling_alley,The Ballroom Bowl,"145 John Street, Toronto",4.1,4771,ChIJL41yFNA0K4gRMmZ2AnkGc_w,"bowling_alley, bar, point_of_interest, establishment",43.6489907,-79.3905521
+bowling_alley,Playtime Bowl & Entertainment,"33 Samor Road, North York",4.1,3758,ChIJY9XlB84zK4gRGs77VXh0dG0,"bowling_alley, bar, restaurant, food, point_of_interest, establishment",43.7174758,-79.4581604
+bowling_alley,Danforth Bowl,"1554 Danforth Avenue, Toronto",4.3,412,ChIJ6VXTYmXM1IkRv5175cTm9vI,"bowling_alley, bar, point_of_interest, establishment",43.683414,-79.32415999999999
+bowling_alley,The Ballroom Bowl,"1 Bloor Street East Unit CRU6, Toronto",4.8,900,ChIJFU8gd640K4gR0AIx5YHaJ1c,"bowling_alley, restaurant, food, point_of_interest, establishment",43.67015869999999,-79.38624620000002
+bowling_alley,BACK ALLEYS,"33 Samor Road, North York",4.6,13,ChIJxzYn080zK4gRTk1F6cjITos,"bowling_alley, point_of_interest, establishment",43.71746919999999,-79.4582588
+cafe,7 West Cafe,"7 Charles Street West, Toronto",4,3078,ChIJs_Gr4rE0K4gR4PCci36eEkg,"cafe, meal_takeaway, meal_delivery, bar, restaurant, food, point_of_interest, establishment",43.6684876,-79.386714
+cafe,Tim Hortons,"55 York Street, Toronto",3.9,1731,ChIJcfAUD9M0K4gRaEg0EJkSGKo,"bakery, cafe, restaurant, food, point_of_interest, store, establishment",43.6461046,-79.3825715
+cafe,Snakes & Lattes Annex,"600 Bloor Street West, Toronto",4.5,2927,ChIJc-8hbJI0K4gRDhU_qf-1yII,"restaurant, cafe, bar, food, point_of_interest, store, establishment",43.66481889999999,-79.4131852
+cafe,Tim Hortons,"1910 Yonge Street, Toronto",3.1,524,ChIJv8wTrzgzK4gR4mfxEt0mcCc,"bakery, cafe, restaurant, food, point_of_interest, store, establishment",43.6984848,-79.3968824
+cafe,Tim Hortons,"246 Bloor Street West, Toronto",3.7,1142,ChIJJYPgm7w0K4gRcHLkGIzlDUc,"bakery, cafe, restaurant, food, point_of_interest, store, establishment",43.6681762,-79.39768780000001
+cafe,Sassafraz,"100 Cumberland Street, Toronto",4.3,2089,ChIJtXyHi680K4gRajtSwdOTYaw,"restaurant, cafe, food, point_of_interest, establishment",43.6703722,-79.3911083
+cafe,Tim Hortons,"College Park, Street Level Street Level, 444 Yonge Street, Toronto",3.5,732,ChIJ-Zyf_7Q0K4gRDF2_RuBM3-U,"bakery, cafe, restaurant, food, point_of_interest, store, establishment",43.6612094,-79.3833236
+cafe,Tim Hortons,"metro Centre, 200 Wellington Street West Unit 360, Toronto",3.3,61,ChIJl5rPRtE0K4gR7mzpUaCiSEI,"bakery, cafe, restaurant, food, point_of_interest, store, establishment",43.6458998,-79.3879178
+cafe,Tim Hortons,"2700 Dufferin Street, Toronto",3.8,737,ChIJSyWgvukzK4gRlCeQssJwTAQ,"bakery, cafe, restaurant, food, point_of_interest, store, establishment",43.70118119999999,-79.45251879999999
+cafe,Tim Hortons,"18 King Street East Suite 105, Toronto",3.6,856,ChIJcQGmZDLL1IkRUftlAxboh6Q,"bakery, cafe, restaurant, food, point_of_interest, store, establishment",43.6494942,-79.37693689999999
+cafe,Tim Hortons,"St. Mike's Hospital Main Cafeteria, 30 Bond Street, Toronto",3.2,45,ChIJi7ufajPL1IkRb7dRurPcvIs,"bakery, cafe, restaurant, food, point_of_interest, store, establishment",43.6537678,-79.37832120000002
+cafe,Tim Hortons,"323 Richmond Street East, Toronto",3.5,721,ChIJvfad4jnL1IkRt2xD1IWWFfA,"bakery, cafe, restaurant, food, point_of_interest, store, establishment",43.6532732,-79.368696
+cafe,Tim Hortons,"250 Bloor Street East, Toronto",4.1,70,ChIJ3eveSVPL1IkR3YyH6f40hys,"bakery, cafe, restaurant, food, point_of_interest, store, establishment",43.67199889999999,-79.3808914
+cafe,Tim Hortons,"731 Eastern Avenue, Toronto",3.7,1255,ChIJ4Wl6QpzL1IkR1RezIVRZPhg,"bakery, cafe, restaurant, food, point_of_interest, store, establishment",43.6595913,-79.32915849999999
+cafe,Tim Hortons,"1728 Bloor Street West, Toronto",4,1028,ChIJD4pXIjA0K4gR7BJ_ZRPzz3M,"bakery, cafe, restaurant, food, point_of_interest, store, establishment",43.65532369999999,-79.4587171
+cafe,Avenue Cafe + Bistro,"488 University Avenue, Toronto",4,210,ChIJacwEKs80K4gR2XXyFAhY8PQ,"cafe, food, point_of_interest, store, establishment",43.65516770000001,-79.3888815
+cafe,Peter Pan Bistro,"373 Queen Street West, Toronto",4.3,1083,ChIJrWJ6w9o0K4gReSmgRRvag0I,"restaurant, liquor_store, cafe, food, point_of_interest, store, establishment",43.649223,-79.393481
+cafe,Tim Hortons,"50 Bloor Street West Unit C23A, Toronto",3.4,120,ChIJHeYziq40K4gRhMyRqpmGvLU,"bakery, cafe, restaurant, food, point_of_interest, store, establishment",43.67030969999999,-79.38815029999999
+cafe,Krispy Kreme Café,"215 Harbord Street, Toronto",4.3,847,ChIJHbVSSZM0K4gR58QBG6X5uKM,"bakery, cafe, food, point_of_interest, store, establishment",43.661484,-79.409399
+cafe,Carole's Cheesecake Cafe & NDLG Bar,"114 Cumberland Street, Toronto",3.9,491,ChIJk8cZYKU0K4gRQFs8JLKZWjM,"restaurant, meal_takeaway, meal_delivery, bakery, cafe, food, point_of_interest, store, establishment",43.67028810000001,-79.3916795
+campground,Humber bay parkwest scenic spot,"345 Humber Bay Park Road West, Etobicoke",4.8,4,ChIJnX8buiw3K4gR_0l2u9M4Eks,"campground, lodging, park, point_of_interest, establishment",43.6134987,-79.4798019
+casino,Delta Bingo & Gaming,"1799 Saint Clair Avenue West, Toronto",4.2,612,ChIJh8P2Chs0K4gRbudarnLXp7A,"casino, bar, restaurant, food, point_of_interest, establishment",43.67282120000001,-79.4637539
+casino,Ontario Export Inc,"161 Bay Street, Toronto",3.5,4,ChIJe6P23yzL1IkRNgXxNJLsqV4,"casino, point_of_interest, establishment",43.6464448,-79.378829
+casino,Seed Drop Cannabis Seeds,"222 Spadina Avenue, Toronto",3.3,3,ChIJo-TRzuQ1K4gRaUClL_Ekhlw,"casino, point_of_interest, store, establishment",43.6507675,-79.39776239999999
+casino,Arb Labs,"1240 Bay Street S504, Toronto",5,1,ChIJMTFKDaU0K4gR29y6if3YkmU,"casino, point_of_interest, establishment",43.6703275,-79.3901571
+casino,MooseMagic Casino,"1259 A Saint Clair Avenue West, Toronto",N/A,N/A,ChIJ4xU4H5A1K4gRDjXU9FsKN4Y,"casino, point_of_interest, establishment",43.67693800000001,-79.4464572
+casino,Rocky Ridge Casino,"736 Don Mills Road, Toronto",N/A,N/A,ChIJS-LqVEXN1IkR2ULFDVPA-Jc,"casino, point_of_interest, establishment",43.71388689999999,-79.334913
+casino,Canadian Majesty Casino,"736 Don Mills Road, Toronto",N/A,N/A,ChIJgf63JD_N1IkRsim9PF-JIxY,"casino, point_of_interest, establishment",43.71388689999999,-79.334913
+church,Humphrey Funeral Home A.W. Miles - Newbigging Chapel Limited,"1403 Bayview Avenue, East York",5,10,ChIJ_8ESkc7M1IkRGuE8-9PmDkY,"funeral_home, church, place_of_worship, point_of_interest, establishment",43.7023532,-79.3734882
+church,St. Andrew's Presbyterian Church,"73 Simcoe Street, Toronto",4.6,181,ChIJSw1T0dM0K4gRvY8eYAVYwho,"church, place_of_worship, point_of_interest, establishment",43.6472989,-79.3856416
+church,St. Patrick's Catholic Church,"137 McCaul Street, Toronto",4.8,526,ChIJKWI8VM80K4gRzqBlpQly284,"tourist_attraction, church, place_of_worship, point_of_interest, establishment",43.654761,-79.391346
+church,St. Basil's Catholic Parish at the University of St. Michael's College,"50 Saint Joseph Street, Toronto",4.8,335,ChIJmUbv9rA0K4gR88tLMlQVfZM,"church, place_of_worship, point_of_interest, establishment",43.6663529,-79.3891513
+church,St. Paul's Bloor Street,"227 Bloor Street East, Toronto",4.7,145,ChIJzeun6aw0K4gRhAmzxTpy41U,"church, place_of_worship, point_of_interest, establishment",43.6712099,-79.3813113
+church,"St. Andrew's United Church, Toronto","117 Bloor Street East, Toronto",4.6,29,ChIJ8f5dS6w0K4gRw9UHgasJxzE,"church, place_of_worship, point_of_interest, establishment",43.67026680000001,-79.3841054
+church,Church of the Redeemer,"162 Bloor Street West, Toronto",4.6,164,ChIJZx_r0Lo0K4gRZ5imaFUkkes,"tourist_attraction, church, place_of_worship, point_of_interest, establishment",43.6689278,-79.3939299
+church,Yorkminster Park Baptist Church,"1585 Yonge Street, Toronto",4.5,186,ChIJcw_VqkUzK4gRv9Ojxtok1yc,"tourist_attraction, church, place_of_worship, point_of_interest, establishment",43.6904895,-79.3941883
+church,Metropolitan United Church,"56 Queen Street East, Toronto",4.5,170,ChIJ5b8RizPL1IkRMLWJ5QPXWTU,"church, place_of_worship, point_of_interest, establishment",43.6539141,-79.3766866
+church,Church of the Holy Trinity,"10 Trinity Square, Toronto",4.5,154,ChIJ_43dZ8s0K4gR2P_gAp4LiQw,"tourist_attraction, church, place_of_worship, point_of_interest, establishment",43.654605,-79.381429
+church,Friends House,"60 Lowther Avenue, Toronto",4.6,35,ChIJfdbHR6M0K4gRJeooUMLfZF8,"church, place_of_worship, point_of_interest, establishment",43.670407,-79.3985543
+church,Knox Presbyterian Church,"630 Spadina Avenue, Toronto",4.4,82,ChIJycBmzr80K4gR2jgIkLMJ_hw,"church, place_of_worship, point_of_interest, establishment",43.6625131,-79.40239869999999
+church,Little Trinity Anglican Church,"425 King Street East, Toronto",4.8,79,ChIJZbu96j7L1IkRN_DDMR-WhGY,"tourist_attraction, church, place_of_worship, point_of_interest, establishment",43.6531296,-79.3618099
+church,Sts Cyril & Methody Macedonian-Bulgarian Eastern Orthodox Church,"237 Sackville Street, Toronto",4.6,27,ChIJk13bSUHL1IkRyBgK0hBuNUs,"church, place_of_worship, point_of_interest, establishment",43.66047460000001,-79.3628324
+church,Holy Family Parish,"1372 King Street West, Toronto",4.8,172,ChIJcWH_Ta41K4gRCLDvx_YC9as,"church, place_of_worship, point_of_interest, establishment",43.63774859999999,-79.43430409999999
+church,St. George's Greek Orthodox Church of Toronto,"115 Bond St, Toronto",4.5,89,ChIJkQKAbDXL1IkRPo34kS0WjjU,"church, place_of_worship, point_of_interest, establishment",43.6572194,-79.3785083
+church,Our Lady of the Assumption Parish,"2565 Bathurst Street, Toronto",4.6,136,ChIJRcBpaKczK4gRBleIGO5Mz2Q,"church, place_of_worship, point_of_interest, establishment",43.7067902,-79.42617059999999
+church,Church of Scientology Mission of Riverdale – Scientology Life Improvement Centre,"308 Broadview Avenue, Toronto",2.8,35,ChIJ_Z4js2jL1IkRcqQakwUl7tI,"church, place_of_worship, point_of_interest, establishment",43.6642269,-79.35231139999999
+church,Iglesia Católica San Juan Bautista,"941 Dundas Street West, Toronto",4.7,132,ChIJ_d2mN-U0K4gRz4iqE5i8ihU,"tourist_attraction, church, place_of_worship, point_of_interest, establishment",43.6505051,-79.41377659999999
+church,Our Lady of Guadalupe Roman Catholic Church,"694 Weston Road, York",4.7,204,ChIJMVQTMaw2K4gRQSr0jRDObVA,"church, place_of_worship, point_of_interest, establishment",43.6820702,-79.47797369999999
+city_hall,Toronto City Hall,"100 Queen Street West, Toronto",4.4,979,ChIJ81rnZsw0K4gR4CIzkYYawjE,"city_hall, tourist_attraction, local_government_office, point_of_interest, establishment",43.6534399,-79.3840901
+city_hall,Toronto Old City Hall,"60 Queen Street West, Toronto",4.6,674,ChIJ81rnZsw0K4gRHt0-k9sXvwA,"tourist_attraction, city_hall, local_government_office, point_of_interest, establishment",43.65251979999999,-79.38171559999999
+city_hall,Paul Ainslie,"100 Queen Street West, Toronto",N/A,N/A,ChIJ1fmfaMw0K4gRTn8hWGmAZMc,"city_hall, local_government_office, point_of_interest, establishment",43.653109,-79.383834
+city_hall,Quayside Impact Partnership Limited.,"30 Adelaide Street East #301, Toronto",N/A,N/A,ChIJGwDAszPL1IkRK8ANJGtc1q0,"city_hall, local_government_office, point_of_interest, establishment",43.6512305,-79.37656179999999
+city_hall,Hempensburg,"411 Duplex Avenue, Toronto",N/A,N/A,ChIJFTXCG_UzK4gRy5fb6WCFF6U,"city_hall, local_government_office, point_of_interest, establishment",43.7074424,-79.4000813
+clothing_store,Hudson's Bay,"176 Yonge Street, Toronto",4.2,5865,ChIJmY_gODPL1IkRh54ohF5PpDo,"department_store, shoe_store, clothing_store, point_of_interest, store, establishment",43.6516651,-79.380136
+clothing_store,Urban Outfitters,"235 Yonge Street, Toronto",4,920,ChIJgfSHsTTL1IkR_y_UkI7r2kI,"clothing_store, shoe_store, home_goods_store, point_of_interest, store, establishment",43.6544667,-79.3799583
+clothing_store,Stag Shop - Adult Sex Store,"239 Yonge Street, Toronto",4.9,670,ChIJ49rxszTL1IkRbWnTV7JyP9s,"clothing_store, point_of_interest, store, establishment",43.65465639999999,-79.3800041
+clothing_store,Sporting Life,"2665 Yonge Street, Toronto",3.9,1428,ChIJp3smYSAzK4gRGqvtU6S_kus,"shoe_store, clothing_store, point_of_interest, store, establishment",43.7164154,-79.400002
+clothing_store,ella + elliot,"188 Strachan Avenue, Toronto",3.8,112,ChIJJ5gg2eI0K4gRS7SmpE877Y8,"clothing_store, point_of_interest, store, establishment",43.6449126,-79.4132588
+clothing_store,Gucci,"130 Bloor Street West Suite 102, Toronto",4.1,449,ChIJqyNdS6U0K4gRLiAkM9SGmxo,"clothing_store, point_of_interest, store, establishment",43.66921869999999,-79.3927898
+clothing_store,Walking On A Cloud,"67 Yonge Street, Toronto",4.1,68,ChIJXUz2HzPL1IkRTzjAGtccHwY,"shoe_store, clothing_store, point_of_interest, store, establishment",43.64877,-79.3775086
+clothing_store,Stag Shop - Adult Sex Store,"532 Church Street, Toronto",4.8,193,ChIJTUwtskzL1IkRghAcMSXgeaQ,"clothing_store, point_of_interest, store, establishment",43.6649041,-79.3809258
+clothing_store,Groovy,"323 Queen Street West, Toronto",3.8,116,ChIJUaHNqdo0K4gRY93R0UISFKk,"shoe_store, clothing_store, point_of_interest, store, establishment",43.6496143,-79.3917795
+clothing_store,Candy's Costume Shop,"685 Mount Pleasant Road, Toronto",4.4,193,ChIJd5XByjYzK4gRxdmujQUmrtA,"jewelry_store, clothing_store, hair_care, point_of_interest, store, establishment",43.7058822,-79.3889464
+clothing_store,Toronto Tees Custom Printed T-shirts and Apparel,"527 Yonge Street, Toronto",4.9,2078,ChIJa-fAjrM0K4gRkZSNhLzvcqw,"clothing_store, point_of_interest, store, establishment",43.6640232,-79.3839297
+clothing_store,Walmart,"1000 Gerrard Street East, Toronto",3.7,2878,ChIJn-8vMnnL1IkRznlqfZbbCGI,"department_store, supermarket, grocery_or_supermarket, clothing_store, furniture_store, home_goods_store, electronics_store, food, point_of_interest, store, establishment",43.669144,-79.3391627
+clothing_store,MEC Toronto,"300 Queen Street West, Toronto",4.3,2268,ChIJ29BzJNo0K4gRBOoE6COQAe0,"bicycle_store, clothing_store, point_of_interest, store, establishment",43.649711,-79.39395859999999
+clothing_store,Value Village,"924 Queen Street East, Toronto",4,1920,ChIJXX-kR3HL1IkRbyITjTRIEn4,"book_store, clothing_store, furniture_store, home_goods_store, point_of_interest, store, establishment",43.66083319999999,-79.34176529999999
+clothing_store,As You Like It,"92 Avenue Road, Toronto",3.6,21,ChIJVw89aKQ0K4gRgbPq5wH1rps,"clothing_store, point_of_interest, store, establishment",43.6724647,-79.39594749999999
+clothing_store,It's My Party,"2208 Danforth Avenue, Toronto",4,119,ChIJw6JkN5zM1IkRlfKVMVcHrjM,"clothing_store, hair_care, home_goods_store, point_of_interest, store, establishment",43.68652669999999,-79.30976079999999
+clothing_store,"Toys""R""Us","900 Dufferin Street, Toronto",4,322,ChIJ64iNI1s0K4gRXIn2niiP9eM,"book_store, clothing_store, point_of_interest, store, establishment",43.65701749999999,-79.4356241
+clothing_store,Suzy Shier,"900 Dufferin Street Unit #0485, Toronto",3.9,61,ChIJ64iNI1s0K4gRF-OfWeVoJYk,"clothing_store, point_of_interest, store, establishment",43.65620359999999,-79.43518809999999
+clothing_store,Tom's Place,"190 Baldwin Street, Toronto",4.3,655,ChIJATmPPsI0K4gRwO5YwnWjUj8,"clothing_store, point_of_interest, store, establishment",43.65483280000001,-79.40128159999999
+clothing_store,Cartier,"131 Bloor Street West, Toronto",4.1,170,ChIJDzMPtLo0K4gRPxNS-xBE06I,"jewelry_store, clothing_store, point_of_interest, store, establishment",43.6687759,-79.3923394
+convenience_store,Rexall,"595 Bay Street, Toronto",3.1,64,ChIJi3ZRr8s0K4gRVRvRrmALocg,"drugstore, pharmacy, convenience_store, health, food, point_of_interest, store, establishment",43.656219,-79.38329
+convenience_store,Rexall,"1245 Dupont Street Store #2287, Toronto",3.3,59,ChIJ4_zARWk0K4gR_mCPdyXEr34,"drugstore, pharmacy, convenience_store, health, food, point_of_interest, store, establishment",43.66803590000001,-79.4410465
+convenience_store,JC Foodlane,"270 Wellington Street West, Toronto",3.1,57,ChIJqw5m_tk0K4gRhlmUuvtg84c,"convenience_store, food, point_of_interest, store, establishment",43.644972,-79.39132699999999
+convenience_store,Rexall,"120 Adelaide Street West Unit # R28, Toronto",4,27,ChIJfczpedI0K4gRKBB6qeQzYXE,"drugstore, pharmacy, convenience_store, health, food, point_of_interest, store, establishment",43.64997199999999,-79.383223
+convenience_store,7-Eleven,"@ Manning, 883 Dundas Street West, Toronto",2.9,86,ChIJa0JJnOU0K4gRoKcK3FQ7ybA,"convenience_store, gas_station, food, point_of_interest, store, establishment",43.6510392,-79.41112369999999
+convenience_store,The Kitchen Table,"10 Queens Quay West, Toronto",3.4,86,ChIJ9boozCvL1IkRIkY-q74uJFI,"grocery_or_supermarket, convenience_store, food, point_of_interest, store, establishment",43.6418543,-79.37542909999999
+convenience_store,Leslieville Pumps General Store & Kitchen,"913 Queen Street East, Toronto",4.1,348,ChIJtcNMynbL1IkRkTsBy2Fs1dU,"convenience_store, restaurant, food, point_of_interest, store, establishment",43.6605922,-79.3414284
+convenience_store,Canada Post,"1016 Bloor Street West, Toronto",3.3,147,ChIJJaCjZF40K4gRmcPIpKaFvgY,"post_office, atm, convenience_store, finance, food, point_of_interest, store, establishment",43.6609195,-79.430966
+convenience_store,Rexall,"600 University Avenue, Toronto",2.4,44,ChIJp1CiZ8g0K4gR2dSnV2CnzZE,"drugstore, pharmacy, convenience_store, health, food, point_of_interest, store, establishment",43.657522,-79.38999199999999
+convenience_store,7-Eleven,"@ Spadina, 260 College Street, Toronto",3.9,134,ChIJabfse8M0K4gR-UxJVFqyziQ,"convenience_store, food, point_of_interest, store, establishment",43.6581718,-79.3998443
+convenience_store,Rexall,"200 Wellington Street West Unit 200, Toronto",3.6,45,ChIJl5rPRtE0K4gRcf6bDFc1eik,"drugstore, pharmacy, convenience_store, health, food, point_of_interest, store, establishment",43.645852,-79.387863
+convenience_store,Rexall,"1 First Canadian Place Unit # CN1038, Toronto",3.4,38,ChIJAdp6kdI0K4gRO_YboBgnHhk,"drugstore, pharmacy, convenience_store, health, food, point_of_interest, store, establishment",43.648566,-79.381807
+convenience_store,Shell,"548 Richmond Street East, Toronto",3.3,176,ChIJyW-V1DjL1IkRW95AEyyfwM4,"gas_station, atm, meal_delivery, convenience_store, finance, food, point_of_interest, store, establishment",43.6548586,-79.3636434
+convenience_store,S&A Variety Store,"128 Pritchard Avenue, York",3.6,10,ChIJDyGQ9782K4gRBLyQMqh1kjM,"convenience_store, food, point_of_interest, store, establishment",43.6696794,-79.4926981
+convenience_store,Gateway Newstands,"302 Yonge Street, Toronto",3.3,4,ChIJZSUS18o0K4gRFHcH-In4-18,"convenience_store, food, point_of_interest, store, establishment",43.6564322,-79.3812593
+convenience_store,Rexall,"2300 Yonge Street, Toronto",2.8,110,ChIJG9EZzzwzK4gR-K7btUGRJ5Y,"drugstore, pharmacy, convenience_store, health, food, point_of_interest, store, establishment",43.707276,-79.399547
+convenience_store,Esso,"537 Keele Street, Toronto",3.1,70,ChIJFQCNlB40K4gRsc-f5AwS9QA,"gas_station, car_wash, convenience_store, food, point_of_interest, store, establishment",43.67020110000001,-79.46627280000001
+convenience_store,Rabba Fine Foods,"148 Wellesley Street East, Toronto",3.9,270,ChIJhVA_7k3L1IkRfMbXFJUn-i8,"grocery_or_supermarket, supermarket, convenience_store, food, point_of_interest, store, establishment",43.6665683,-79.3763383
+convenience_store,Rexall,"777 Bay Street unit c 216, Toronto",3,92,ChIJnUz2uLU0K4gRt_1YiWZ1T00,"drugstore, pharmacy, convenience_store, health, food, point_of_interest, store, establishment",43.660485,-79.384455
+convenience_store,Central Market,"1430 King Street West Unit #105, Toronto",3.7,12,ChIJQXBT0a81K4gR38rDeyy6VW8,"convenience_store, food, point_of_interest, store, establishment",43.6372836,-79.4362304
+department_store,Canadian Tire,"839 Yonge Street, Toronto",4.1,2880,ChIJn2hKyK40K4gRjgBcA1T4Wxc,"department_store, car_repair, home_goods_store, point_of_interest, store, establishment",43.6737958,-79.3876391
+department_store,Canadian Tire,"1025 Lake Shore Boulevard East, Toronto",3.9,2760,ChIJIW41r57L1IkRFo0Eu06NztQ,"department_store, car_repair, home_goods_store, point_of_interest, store, establishment",43.65827789999999,-79.3286291
+department_store,Hudson's Bay,"176 Yonge Street, Toronto",4.2,5865,ChIJmY_gODPL1IkRh54ohF5PpDo,"department_store, shoe_store, clothing_store, point_of_interest, store, establishment",43.6516651,-79.380136
+department_store,Canadian Tire,"Lawrence Square Shopping Centre, 700 Lawrence Avenue West, Toronto",3.8,2066,ChIJS73d4ckzK4gR9UZR519yqLY,"department_store, car_repair, home_goods_store, point_of_interest, store, establishment",43.7164191,-79.44802469999999
+department_store,Canadian Tire,"Eaton Centre, 65 Dundas Street West, Toronto",3.8,4999,ChIJ00Dpnss0K4gR3ZV545o5Ybk,"department_store, car_repair, home_goods_store, point_of_interest, store, establishment",43.6554239,-79.3830195
+department_store,Canadian Tire,"2681 Danforth Avenue, Toronto",3.9,2373,ChIJ2Y9GfiLM1IkRqrxQZv5oDjU,"department_store, car_repair, home_goods_store, point_of_interest, store, establishment",43.6882358,-79.2980694
+department_store,Canadian Tire,"825 Eglinton Avenue East, Toronto",3.9,2600,ChIJZQGrqiDN1IkRu4gy2_uxrZQ,"department_store, car_repair, home_goods_store, point_of_interest, store, establishment",43.7122796,-79.36344090000001
+department_store,Walmart,"1000 Gerrard Street East, Toronto",3.7,2878,ChIJn-8vMnnL1IkRznlqfZbbCGI,"department_store, supermarket, electronics_store, grocery_or_supermarket, clothing_store, furniture_store, home_goods_store, point_of_interest, food, store, establishment",43.669144,-79.3391627
+department_store,Canadian Tire,"2129 Saint Clair Avenue West, Toronto",3.8,3525,ChIJqeLRo6A2K4gRkQ04yyfYB1U,"department_store, car_repair, home_goods_store, point_of_interest, store, establishment",43.6706911,-79.47218570000001
+department_store,Walmart,"1305 Lawrence Avenue West, Toronto",3.8,3800,ChIJqVYjBVs0K4gRUDmFuNoC3Jg,"department_store, supermarket, electronics_store, grocery_or_supermarket, clothing_store, furniture_store, home_goods_store, point_of_interest, food, store, establishment",43.7085041,-79.4733767
+department_store,HomeSense,"195 Yonge Street, Toronto",4.4,1006,ChIJJeOEWDPL1IkR_YUFbhr46Co,"department_store, furniture_store, home_goods_store, point_of_interest, store, establishment",43.6531486,-79.37941839999999
+department_store,Canadian Tire,"Westside Mall, 2360 Eglinton Avenue West, Toronto",3.9,1146,ChIJN3At5fwzK4gRZNlihpPtvkA,"department_store, car_repair, home_goods_store, point_of_interest, store, establishment",43.69353989999999,-79.46717900000002
+department_store,Marshalls,"700 Lawrence Avenue West, Toronto",4,849,ChIJ42nz4rUzK4gRbVssxk6ZgGE,"department_store, shoe_store, clothing_store, point_of_interest, store, establishment",43.7167948,-79.4462693
+department_store,HomeSense,"957 Eglinton Avenue East, Toronto",4.4,1276,ChIJU3W0ciDN1IkRZre2b_2IPJI,"department_store, furniture_store, home_goods_store, point_of_interest, store, establishment",43.7141708,-79.3577621
+department_store,Winners,"3090 Bathurst Street, Toronto",4.3,1361,ChIJewiKRaszK4gRjY0PHpm6_yA,"department_store, shoe_store, clothing_store, point_of_interest, store, establishment",43.7193869,-79.4307956
+department_store,"Holt Renfrew | Canada’s Designer Fashion, Beauty & Lifestyle Retailer","3401 Dufferin Street, North York",4.1,1140,ChIJFTDYCDMyK4gRz-Tp8TkmtOg,"department_store, clothing_store, point_of_interest, store, establishment",43.7245337,-79.45159629999999
+department_store,Hudson's Bay,"3401 Dufferin Street, North York",4.2,3554,ChIJFTDYCDMyK4gRy50w2RUEaZE,"department_store, shopping_mall, shoe_store, clothing_store, point_of_interest, store, establishment",43.7263211,-79.4552617
+department_store,Saks Fifth Avenue,"176 Yonge Street, Toronto",4,1352,ChIJA1VwOTPL1IkRxqCkzlXyzos,"department_store, point_of_interest, store, establishment",43.6522222,-79.3797222
+department_store,MUJI Atrium,"20 Dundas Street West, Toronto",4.4,1351,ChIJdc6XH8s0K4gRqC9Xx_2cTtE,"department_store, clothing_store, furniture_store, home_goods_store, point_of_interest, store, establishment",43.6563911,-79.38195089999999
+department_store,Winners,"10 Dundas Street East, Toronto",4.2,1470,ChIJ__B0z8o0K4gRiBhqjWw_2LI,"department_store, shoe_store, clothing_store, point_of_interest, store, establishment",43.6569552,-79.3808494
+embassy,Consulat Général de France / Consulate General of France,"2 Bloor St East suite 2200 (22è étage, Toronto",3.5,139,ChIJmbSufq40K4gRNZArRNi6d80,"embassy, point_of_interest, establishment",43.6707,-79.3865661
+embassy,Philippine Consulate General,"160 Eglinton Avenue East 7th floor, Toronto",3.1,809,ChIJc8-CRiUzK4gR6P4javTEJq8,"embassy, point_of_interest, establishment",43.70797389999999,-79.3936422
+embassy,Consulate General of Grenada in Toronto,"90 Eglinton Avenue East Suite #605, Toronto",3.3,6,ChIJE9ztMsk0K4gRAYLE9TtBC9k,"embassy, point_of_interest, establishment",43.70756679999999,-79.3957393
+embassy,Consulate General of the Republic of Korea in Toronto,"555 Avenue Road, Toronto",3.2,358,ChIJ4SsPE10zK4gRDZbsveNamcs,"embassy, point_of_interest, establishment",43.6874053,-79.401232
+embassy,Consulate General of Greece,"1075 Bay Street #600, Toronto",4.2,221,ChIJ-5kde1PL1IkRUZNtj2_CfDQ,"embassy, point_of_interest, establishment",43.6671638,-79.3879962
+embassy,Consulate General of Sri Lanka,"1 Eglinton Avenue East #501, Toronto",3.4,150,ChIJhaopLlszK4gR7rCIS4HADPQ,"embassy, point_of_interest, establishment",43.7065792,-79.3978503
+embassy,Consulate Of Mexico,"11 King Street West #350, Toronto",3.4,313,ChIJfUEGUi3L1IkRGIs5oPsWalg,"embassy, point_of_interest, establishment",43.6487025,-79.3784811
+embassy,U.S. Consulate General Toronto,"360 University Avenue, Toronto",3.9,540,ChIJY5GU18g0K4gRLPLVjsHMOi4,"embassy, point_of_interest, establishment",43.65282299999999,-79.3880114
+embassy,Consulate of Finland,"1200 Bay Street, Toronto",5,7,ChIJg1IAxq80K4gR-STw4DQ0YdU,"embassy, point_of_interest, establishment",43.67001090000001,-79.3898506
+embassy,Jamaica Trade & Invest,"303 Eglinton Avenue East, Toronto",N/A,N/A,ChIJ-WPhXi4zK4gRBRAHMYOWV6A,"embassy, point_of_interest, establishment",43.7087653,-79.3876039
+embassy,Colombian Government Trade Commission,"2 Bloor Street West Suite 902, Toronto",4.5,2,ChIJ08VmaK40K4gRVK54YU6mZ6c,"embassy, point_of_interest, establishment",43.6704379,-79.3872576
+embassy,Denmark Trade Commission,"2 Bloor Street West Suite 2109, Toronto",N/A,N/A,ChIJ96IEQq40K4gRWrPwLMD49vo,"embassy, point_of_interest, establishment",43.6686301,-79.3932099
+embassy,Consulate-General of Dominican,"2 Adelaide Street West, Toronto",N/A,N/A,ChIJP4nk7jLL1IkR0D1sLg_BWec,"embassy, point_of_interest, establishment",43.6506676,-79.378817
+embassy,Consulate General of Iceland,"Suite 3400 One First Canadian Place, 100 King St. West, Toronto",5,3,ChIJr5WtpNI0K4gRYJXaMa0OdtQ,"embassy, point_of_interest, establishment",43.6485551,-79.3815034
+embassy,Consulate General of Italy,"136 Beverley Street, Toronto",3.3,228,ChIJC4MxyMU0K4gRqNjBNwTXm38,"embassy, point_of_interest, establishment",43.65412730000001,-79.3944776
+embassy,Turkish Consulate General in Toronto,"10 Lower Spadina Avenue Suite 300, Toronto",3,451,ChIJPWhATxcFzkwRDxFa_w-Srpc,"embassy, point_of_interest, establishment",43.63783069999999,-79.39245629999999
+embassy,Consulate General of Hungary,"175 Bloor St East, South, Tower, suite 1109, Toronto",4.3,90,ChIJ5TKB_Kw0K4gR-yUAoOm1F8Y,"embassy, point_of_interest, establishment",43.6707052,-79.3825177
+embassy,Consulate General of Germany,"2 Bloor Street East, Toronto",3.5,201,ChIJEySv2680K4gR51gFbuQ5alk,"embassy, point_of_interest, establishment",43.6710978,-79.386063
+embassy,Consulate General of India,"365 Bloor Street East #700, Toronto",2.7,1338,ChIJDXkUnIzN1IkR70lSeJmybR8,"embassy, point_of_interest, establishment",43.67184559999999,-79.3777601
+embassy,The Consulate General of the People's Republic of China in Toronto,"240 Saint George Street, Toronto",2.5,657,ChIJ6WAYiKI0K4gRL_1KHY0sJUQ,"embassy, point_of_interest, establishment",43.672435,-79.4022227
+florist,Flower Creations,"121 King Street West, Toronto",4.5,105,ChIJKRz299I0K4gRLjsgxatRYtw,"florist, point_of_interest, store, establishment",43.64770619999999,-79.38295289999999
+florist,Loblaws Queen Street,"585 Queen Street West, Toronto",4.1,2638,ChIJu_mWld00K4gR8brxjWA0WGo,"grocery_or_supermarket, florist, bakery, food, point_of_interest, store, establishment",43.647656,-79.40163000000001
+florist,King West Flowers,"46 Noble Street Studio #207, Toronto",4.4,112,ChIJ9R8lZOA0K4gRXsJmrWZJ_Zk,"florist, point_of_interest, store, establishment",43.6426036,-79.4318645
+florist,Loblaws Leslie Street,"17 Leslie Street, Toronto",4.2,2789,ChIJLQONeJvL1IkREkP1_u4R2ko,"grocery_or_supermarket, florist, bakery, health, food, point_of_interest, store, establishment",43.660996,-79.328334
+florist,Ladybug Florist In the Village,"262 Carlaw Avenue Unit 105, Toronto",4.3,171,ChIJve0J0LI0K4gRgL_sQDkr-tQ,"florist, point_of_interest, store, establishment",43.6631218,-79.3412161
+florist,Power Flowers,"138 Simcoe Street, Toronto",4.6,101,ChIJtxuP4dE0K4gR6Wyx1t0Nqbg,"florist, point_of_interest, store, establishment",43.64948149999999,-79.3871193
+florist,Pink Twig,"711 College Street, Toronto",4.6,92,ChIJZ2DfIfE0K4gRvfd-I6kqhug,"florist, point_of_interest, store, establishment",43.6550717,-79.41827529999999
+florist,Edible Arrangements,"140 Adelaide Street East, Toronto",2.6,97,ChIJkeG3FzHL1IkRlAQqDE6sFho,"florist, grocery_or_supermarket, food, point_of_interest, store, establishment",43.651804,-79.3727533
+florist,Teatro Verde,"55 Avenue Road, Toronto",3.6,94,ChIJ8VF4eqU0K4gR1JDmF3yZiww,"florist, point_of_interest, store, establishment",43.6711307,-79.3947191
+florist,Martin's Flowers,"419 Jane Street, Toronto",4.5,91,ChIJSd64p582K4gRkVrsNkR5j3o,"florist, point_of_interest, store, establishment",43.6589395,-79.48816
+florist,Loblaws Lower Jarvis Street,"10 Lower Jarvis Street, Toronto",4.3,3194,ChIJETtidy_L1IkRNw4NKsUu8JA,"grocery_or_supermarket, florist, bakery, food, point_of_interest, store, establishment",43.645427,-79.36978900000001
+florist,Loblaws Yonge Street,"3501 Yonge Street, North York",4.2,1355,ChIJLR2kYmUtK4gRTrmDQJxbzP4,"grocery_or_supermarket, florist, bakery, food, point_of_interest, store, establishment",43.73525,-79.404517
+florist,Anemone Flower Shop,"Design Location-No retail access, 55 University Avenue, Toronto",4.7,20,ChIJh4mss9M0K4gRY4NyULpN6JU,"florist, point_of_interest, store, establishment",43.64673419999999,-79.3839474
+florist,Alma Florists Ltd,"886 Kingston Road, Toronto",4.7,42,ChIJo_9-fR3M1IkRdptlYVmQR3A,"florist, point_of_interest, store, establishment",43.68047959999999,-79.2901694
+florist,Bloor Village Flowers,"2208 Bloor Street West, Toronto",4.7,121,ChIJ9YiALYE2K4gREHRpT1-9kac,"florist, point_of_interest, store, establishment",43.6513859,-79.4758322
+florist,Rose Garden Flowers,"762 Dundas Street West, Toronto",4.9,36,ChIJbd6xl-g0K4gRqEK1smDuBgI,"florist, point_of_interest, store, establishment",43.6523553,-79.4070641
+florist,Eden Flower Shop,"1391 Yonge Street, Toronto",4.3,99,ChIJ9XmDyz4zK4gRbjgZpl6bhQ8,"florist, point_of_interest, store, establishment",43.6869323,-79.39347839999999
+florist,Urban Eden Flower Shoppe,"108 Shaftesbury Av, Toronto",5,1,ChIJx7jt41kzK4gRqVp2aO9CnxQ,"florist, point_of_interest, store, establishment",43.6824449,-79.3919545
+florist,FETE Boutique Floral + Events,"209 McRae Drive, East York",4.4,16,ChIJMdWBO0ktK4gR5-bfxqrahq0,"florist, point_of_interest, store, establishment",43.708284,-79.36564
+florist,Petite Studio,"24 Noble Street #513, Toronto",4.2,5,ChIJP7I3R1szK4gRR9pTRwS5CYg,"florist, point_of_interest, store, establishment",43.64289559999999,-79.4303448
+gym,Medcan,"150 York Street #1500, Toronto",3.7,260,ChIJT5Xni800K4gRKhn9k2_e_e8,"hospital, gym, doctor, health, point_of_interest, establishment",43.64943049999999,-79.3847535
+gym,GoodLife Fitness Toronto Bloor and Park,"8 Park Road, Toronto",3.7,303,ChIJJUpwS6w0K4gR436wZMgMklU,"gym, health, point_of_interest, establishment",43.671302,-79.38469099999999
+gym,GoodLife Fitness Toronto 137 Yonge Street,"137 Yonge Street, Toronto",3.9,852,ChIJjRqf7DLL1IkR-03PdrxNSwY,"gym, health, point_of_interest, establishment",43.651242,-79.378068
+gym,BeHot Yoga Toronto,"43 Colborne Street, Toronto",4.7,406,ChIJz7CPBDLL1IkR_70SIk6lleI,"gym, health, point_of_interest, establishment",43.648881,-79.375104
+gym,Central YMCA,"20 Grosvenor Street, Toronto",3.6,228,ChIJgRPjEbQ0K4gR2J3_ESErwjw,"gym, health, point_of_interest, establishment",43.6630804,-79.3850691
+gym,GoodLife Fitness Toronto Union Station,"7 Station Street, Toronto",3.7,346,ChIJKbS4DNQ0K4gRWJOid5RlhBE,"gym, health, point_of_interest, establishment",43.644336,-79.383625
+gym,GoodLife Fitness Toronto King Liberty,"85 Hanna Avenue, Toronto",4,832,ChIJI4DOYAE1K4gReqsZYLJqazs,"gym, health, point_of_interest, establishment",43.64006,-79.419812
+gym,GoodLife Fitness Toronto Bell Trinity Centre,"483 Bay Street, Toronto",4.1,233,ChIJX-NmU8s0K4gRrvEwT-WyvCs,"gym, health, point_of_interest, establishment",43.653436,-79.382314
+gym,OpenMat MMA,"295 College Street Level B, Toronto",4.5,114,ChIJyyaBNLI0K4gRjNCkbWsM4wo,"gym, health, point_of_interest, establishment",43.65757079999999,-79.4013045
+gym,elleTO,"435 King Street West, Toronto",4.6,188,ChIJ5-CQ0N40K4gRNZMgSaN0qxA,"gym, health, point_of_interest, establishment",43.6451996,-79.39545470000002
+gym,Old School Muay Thai,"254 Niagara Street Rear Unit, Toronto",4.8,119,ChIJ92TkJNA0K4gRLlcGgjJmk5I,"gym, health, point_of_interest, establishment",43.6449931,-79.40916539999999
+gym,Boulderz Climbing Centre,"1444, 16 Dupont Street #16, Toronto",4.4,339,ChIJc2RSGBU0K4gR8Rxwt5gT4iM,"gym, health, point_of_interest, establishment",43.666955,-79.449477
+gym,Toronto Climbing Academy,"11 Curity Avenue Unit 3, Toronto",4.7,286,ChIJf8FCVGzL1IkR-o6mVT8hWag,"gym, health, point_of_interest, establishment",43.70866009999999,-79.3154307
+gym,GoodLife Fitness Toronto Yonge and St Clair,"12 Saint Clair Avenue East, Toronto",4,446,ChIJv9XXLEUzK4gR_weWnJJuaWY,"gym, health, point_of_interest, establishment",43.688484,-79.39378099999999
+gym,West End YMCA,"931 College Street, Toronto",3.7,211,ChIJC6ihHFg0K4gRXdhNclqiv7k,"gym, health, point_of_interest, establishment",43.6534225,-79.42593
+gym,Kula Yoga Studio,"304 Brunswick Avenue, Toronto",4.5,60,ChIJG46yoJY0K4gRCOLjMKf-ig0,"gym, health, point_of_interest, establishment",43.6656486,-79.4075167
+gym,Yoga Tree Richmond Spadina,"140 Spadina Avenue, Toronto",4.7,294,ChIJ3c4OnNs0K4gRNQ-KRgo7t_g,"gym, health, point_of_interest, establishment",43.6477238,-79.3963574
+gym,Bloor Street Fitness & Boxing 24/7,"2295 Dundas Street West, Toronto",4,176,ChIJX-2ZXjc0K4gR4zJK-upNK-Q,"gym, health, point_of_interest, establishment",43.6554355,-79.4524215
+gym,The Yoga Lounge,"80 Sherbourne Street, Toronto",4.7,15,ChIJH91q5jPL1IkRaOSOFpVY650,"gym, health, point_of_interest, establishment",43.65247780000001,-79.3689675
+gym,Downward Dog Yoga Centre,"30 Ossington Avenue, Toronto",4.3,78,ChIJR_6cM-E0K4gR7EA84CvjM3w,"gym, health, point_of_interest, establishment",43.644878,-79.4194639
+hair_care,Hammam Spa by Céla King West,"602 King Street West, Toronto",4.3,697,ChIJBXrMXt40K4gRMXDfeVIucgA,"spa, hair_care, beauty_salon, point_of_interest, establishment",43.64456560000001,-79.4002979
+hair_care,Candy's Costume Shop,"685 Mount Pleasant Road, Toronto",4.4,193,ChIJd5XByjYzK4gRxdmujQUmrtA,"hair_care, clothing_store, jewelry_store, point_of_interest, store, establishment",43.7058822,-79.3889464
+hair_care,Damara Day Spa - Yorkville,"66 Avenue Road, Toronto",4.5,352,ChIJZ5iu8aQ0K4gR6Xrk0gbAJhI,"hair_care, beauty_salon, spa, point_of_interest, store, establishment",43.6716044,-79.3956712
+hair_care,Terminal Barber Shop,"594 Bay Street, Toronto",4.4,322,ChIJOz0Vpcs0K4gR2hv_beHZfeM,"hair_care, health, point_of_interest, establishment",43.6559444,-79.3840361
+hair_care,03 Hair Salon,"161 Baldwin Street Unit: #4, Toronto",4.4,248,ChIJqxp60sM0K4gRKCN9Nr__Yos,"hair_care, beauty_salon, point_of_interest, establishment",43.6548709,-79.3999025
+hair_care,Salon Solis-Toronto’s Best Hair Salon,"659 Yonge Street 2nd Floor, Toronto",4.8,715,ChIJXdueAbI0K4gRwhzm9BKJlrI,"hair_care, point_of_interest, establishment",43.6682204,-79.38581359999999
+hair_care,It's My Party,"2208 Danforth Avenue, Toronto",4,119,ChIJw6JkN5zM1IkRlfKVMVcHrjM,"hair_care, clothing_store, home_goods_store, point_of_interest, store, establishment",43.68652669999999,-79.30976079999999
+hair_care,Canada Square Men's Hair,"2200 Yonge Street, Toronto",4.6,26,ChIJlwUIYjwzK4gRS3P6ilplT4Q,"hair_care, point_of_interest, establishment",43.7058905,-79.3984057
+hair_care,Blo Blow Dry Bar,"626 King Street West Suite 102, Toronto",3.9,226,ChIJu3N6M940K4gR87SH6jSwab4,"hair_care, beauty_salon, point_of_interest, establishment",43.6444115,-79.4012044
+hair_care,Baywood Clinic,"1033 Bay Street suite 303, Toronto",4.6,112,ChIJg8Q6CrE0K4gRItiNOaDR3GY,"hair_care, beauty_salon, spa, health, point_of_interest, establishment",43.666027,-79.3874909
+hair_care,Studio 861 Hair & Spa,"956 College Street, Toronto",3.8,46,ChIJKVxClvc0K4gRWtJ1tzBh0xg,"hair_care, beauty_salon, point_of_interest, establishment",43.6536086,-79.4272022
+hair_care,Second Skin Medspa,"1 Eglinton Avenue East c400, Toronto",3.7,46,ChIJoQgRrzwzK4gRXRjS3vdCwDM,"spa, hair_care, beauty_salon, health, point_of_interest, establishment",43.7065725,-79.3978162
+hair_care,THE TEN SPOT,"916 Queen Street East, Toronto",4.6,341,ChIJ-3XJfYXL1IkRRXY9zwPlIJc,"spa, hair_care, beauty_salon, health, point_of_interest, establishment",43.6607255,-79.34212649999999
+hair_care,b.suite SALON,"132 Atlantic Avenue, Toronto",4.7,158,ChIJz1pMFAE1K4gRyDi81-_JEbw,"hair_care, beauty_salon, health, point_of_interest, establishment",43.63993199999999,-79.42139399999999
+hair_care,Fuzz Wax Bar Queen,"663 Queen Street West, Toronto",4.6,502,ChIJ99I2Kuc0K4gRo4teNRR74q8,"hair_care, beauty_salon, health, point_of_interest, establishment",43.6469837,-79.4043587
+hair_care,Aroma Waxing & Laser Clinic,"588 Bloor Street West, Toronto",4.6,437,ChIJFz5tapI0K4gRXstglu9eubI,"hair_care, beauty_salon, spa, health, point_of_interest, establishment",43.6649877,-79.4128164
+hair_care,The Curl Ambassadors Curly Hair Salon,"159 Harbord Street, Toronto",4.6,440,ChIJTUxlwJQ0K4gR0GCvby7hnAU,"hair_care, beauty_salon, point_of_interest, establishment",43.661914,-79.40693399999999
+hair_care,La Perla Salon & Spa,"112 Elizabeth Street, Toronto",4.5,163,ChIJ6-iM-Ms0K4gRCOH09j6qrlc,"beauty_salon, hair_care, spa, health, point_of_interest, establishment",43.6548941,-79.38515009999999
+hair_care,Ivan Hair Salon,"21 Victoria Street, Toronto",4.4,329,ChIJf97yaDLL1IkRBEOviXac5J4,"hair_care, point_of_interest, establishment",43.6496501,-79.37675349999999
+hair_care,Avola College Of Hairstyling And Esthetics,"282 Dundas Street East, Toronto",4.2,220,ChIJrTDQM0jL1IkRKOGnX4r8hjs,"beauty_salon, hair_care, school, point_of_interest, establishment",43.6585226,-79.3716918
+hindu_temple,Hare Krishna Temple - International Society For Krishna Consciousness (ISKCON),"243 Avenue Road, Toronto",4.8,2383,ChIJ0XGO1KA0K4gR7I8uKE8hcl8,"hindu_temple, tourist_attraction, place_of_worship, health, restaurant, food, point_of_interest, establishment",43.6768722,-79.39714049999999
+hindu_temple,Hindu Prarthana Samaj Mandir Temple,"62 Fern Avenue, Toronto",4.7,83,ChIJiUPfUUs0K4gRf4HCjKBJowY,"hindu_temple, place_of_worship, point_of_interest, establishment",43.6459295,-79.4428042
+hindu_temple,Bhuvaneshwar Mandir,"713 Jane Street, York",2.7,10,ChIJATUJ9r82K4gRp6_K1tpUxl8,"hindu_temple, place_of_worship, point_of_interest, establishment",43.6699299,-79.4927319
+hindu_temple,Toronto Sri Maha Ganapathy Temple,"468 Gerrard Street East, Toronto",4.8,401,ChIJPYwPWELL1IkRdlXPbUmb_hw,"hindu_temple, place_of_worship, point_of_interest, establishment",43.6637378,-79.3599851
+hindu_temple,Bhrtlal,"171 East Liberty Street, Toronto",N/A,N/A,ChIJ43fnZQA1K4gRzn0VkCmYvFw,"hindu_temple, place_of_worship, point_of_interest, establishment",43.6383337,-79.4191974
+hindu_temple,Hanjusjusjs,"159 Russell Hill Road, Toronto",N/A,N/A,ChIJFSBMNgAzK4gRnYQywmXCvFg,"hindu_temple, place_of_worship, point_of_interest, establishment",43.68190509999999,-79.4058572
+hindu_temple,Gayatri Mandir,"983 Dupont Street, Toronto",4.6,9,ChIJI2_naGQ0K4gRitwCPF_C_WM,"hindu_temple, place_of_worship, point_of_interest, establishment",43.6697061,-79.4321436
+hindu_temple,Bangladesh Canada Hindu Mandir,"16 Dohme Avenue, East York",4.7,381,ChIJC7z3ibXN1IkRAH4HC7oLZ14,"hindu_temple, place_of_worship, point_of_interest, establishment",43.7125238,-79.3127844
+jewelry_store,Candy's Costume Shop,"685 Mount Pleasant Road, Toronto",4.4,193,ChIJd5XByjYzK4gRxdmujQUmrtA,"jewelry_store, hair_care, clothing_store, store, point_of_interest, establishment",43.7058822,-79.3889464
+jewelry_store,Harold The Jewellery Buyer,"3016 Bathurst Street, North York",2.3,128,ChIJdfixdKszK4gRKOCHmddYTQI,"jewelry_store, store, point_of_interest, establishment",43.7178262,-79.4296348
+jewelry_store,Tiffany & Co.,"150 Bloor Street West, Toronto",4.4,324,ChIJg_xL5q80K4gR5SkBDOa2lvg,"jewelry_store, store, point_of_interest, establishment",43.6691352,-79.3934841
+jewelry_store,Cartier,"131 Bloor Street West, Toronto",4.1,170,ChIJDzMPtLo0K4gRPxNS-xBE06I,"jewelry_store, clothing_store, store, point_of_interest, establishment",43.6687759,-79.3923394
+jewelry_store,Diamonds For Less,"5 Shuter Street, Toronto",4.9,1199,ChIJh2EApTTL1IkRLR9kpaZ11wc,"jewelry_store, store, point_of_interest, establishment",43.6540743,-79.37941649999999
+jewelry_store,Royal de Versailles Jewellers,"101 Bloor Street West, Toronto",4.6,416,ChIJw733-680K4gRfNZqDitahAE,"jewelry_store, store, point_of_interest, establishment",43.66913609999999,-79.3911889
+jewelry_store,Black Line Studio,"571 King Street West SECOND FLOOR, Toronto",4.5,757,ChIJ07XS8N40K4gRVvZoV-1l-0k,"jewelry_store, store, point_of_interest, establishment",43.6443733,-79.3994484
+jewelry_store,Swarovski,"55 Bloor Street West #1, Toronto",4.3,63,ChIJ96IEQq40K4gRvhVrWM5827U,"jewelry_store, store, point_of_interest, establishment",43.6697105,-79.3886301
+jewelry_store,Made You Look,"1338 Queen Street West, Toronto",4.6,222,ChIJ12RoY6w1K4gRmbFovgbA0As,"jewelry_store, finance, store, point_of_interest, establishment",43.6416954,-79.43180509999999
+jewelry_store,ARIA Jewellers Inc.,"2340 Dundas Street West Unit G38, Toronto",4.9,76,ChIJWUMp6Tk0K4gRSNSay_PsCKM,"jewelry_store, store, point_of_interest, establishment",43.6569168,-79.4522077
+jewelry_store,Michael Kors,"220 Yonge Street Space C020B, Toronto",4.1,191,ChIJY8qjVTPL1IkRDz0Yo_AFnts,"shoe_store, jewelry_store, clothing_store, store, point_of_interest, establishment",43.6538674,-79.38055589999999
+jewelry_store,Engage Studio,"565 Bloor Street East, Toronto",4.9,356,ChIJDckphVnS1IkRQHIWFpcPeMo,"jewelry_store, store, point_of_interest, establishment",43.67189399999999,-79.37296309999999
+jewelry_store,Budget Diamonds Online,"55 Queen Street East #1002, Toronto",5,161,ChIJVVYthTPL1IkR2Zbpvg-oKo4,"jewelry_store, store, point_of_interest, establishment",43.6528521,-79.3768346
+jewelry_store,House of Jewellery,"27 Queen Street East Suite 1202, Toronto",4.9,81,ChIJVVYthTPL1IkRFjUICEm7EwE,"jewelry_store, store, point_of_interest, establishment",43.6525279,-79.37787949999999
+jewelry_store,McTamney's,"837 Danforth Avenue, Toronto",4.7,445,ChIJuyBIDDTL1IkRgStYZKsA5Yo,"jewelry_store, finance, store, point_of_interest, establishment",43.679642,-79.34062689999999
+jewelry_store,Stones and Findings,"Pickup Location 9 Adelaide Place Off of Adelaide St. near, Bathurst Street, Toronto",5,63,ChIJVVYthTPL1IkR9ijg-QJv4oM,"jewelry_store, store, point_of_interest, establishment",43.64511590000001,-79.40150129999999
+jewelry_store,Scout - Roncesvalles,"405 Roncesvalles Avenue, Toronto",4.7,142,ChIJF3XjgDY0K4gRJiLjz_BA4eg,"jewelry_store, home_goods_store, store, point_of_interest, establishment",43.6510118,-79.4506706
+jewelry_store,Marquess Jewellers,"next to Good Life Gym, 12 St. Clair Ave. East Lower Level, Toronto",4.8,41,ChIJv9XXLEUzK4gR4mS6VqVLKJw,"jewelry_store, store, point_of_interest, establishment",43.6887361,-79.3934948
+jewelry_store,Daniel Jewellers & Vendors Market,"1006 Queen Street East, Toronto",4.9,746,ChIJOYi_5nbL1IkRIIY4o4OT3jc,"jewelry_store, finance, clothing_store, store, point_of_interest, establishment",43.6614619,-79.3392842
+jewelry_store,COACH,"218 Yonge Street, Toronto",3.8,134,ChIJq33JVzPL1IkRhhd1_SsAeA4,"jewelry_store, clothing_store, store, point_of_interest, establishment",43.6531499,-79.3801343
+library,Toronto Metropolitan University Libraries,"350 Victoria Street, Toronto",4.3,56,ChIJGWalsso0K4gRO342qi6zqmc,"library, point_of_interest, establishment",43.6577899,-79.3803145
+library,Toronto Public Library - Toronto Reference Library,"789 Yonge Street, Toronto",4.6,1301,ChIJ4S_WkK40K4gRFJN_Eh7D-1A,"library, point_of_interest, establishment",43.6718065,-79.3868159
+library,Toronto Public Library - City Hall Branch,"Toronto City Hall, 100 Queen Street West, Toronto",4,127,ChIJ81rnZsw0K4gRfWj9dnRHEiQ,"library, point_of_interest, establishment",43.65334369999999,-79.3838262
+library,Toronto Public Library - Northern District Branch,"40 Orchard View Boulevard, Toronto",4.3,251,ChIJp21eKCMzK4gRFGLz9UpsfPA,"library, point_of_interest, establishment",43.7082224,-79.399787
+library,Toronto Public Library - Bloor/Gladstone Branch,"1101 Bloor Street West, Toronto",4.5,209,ChIJESzo9Fw0K4gRDt4m3xocIvY,"library, point_of_interest, establishment",43.6599082,-79.4339883
+library,John P. Robarts Research Library,"130 Saint George Street, Toronto",4.5,444,ChIJZ48Dhb40K4gRqfQuu9-I0Hw,"library, point_of_interest, establishment",43.664486,-79.39968999999999
+library,Toronto Public Library - St. James Town Branch,"495 Sherbourne Street, Toronto",3.9,98,ChIJ8WTiSpY0K4gRAI5yXDRl1QM,"library, point_of_interest, establishment",43.66741029999999,-79.3744442
+library,Toronto Public Library - St. Clair/Silverthorn Branch,"1748 Saint Clair Avenue West, Toronto",4.4,57,ChIJ81ilgOg0K4gRCBHCQyxuOks,"library, point_of_interest, establishment",43.6742898,-79.4605991
+library,Toronto Public Library - Parliament Street Branch,"269 Gerrard Street East, Toronto",4,142,ChIJvXIYCkbL1IkRndQ9qQ2dLaA,"library, point_of_interest, establishment",43.6619487,-79.3680866
+library,Swansea Town Hall,"95 Lavinia Avenue, Toronto",4.1,9,ChIJKXjpmn02K4gRwvawh_OeNcs,"library, health, point_of_interest, establishment",43.6476877,-79.4778417
+library,The Great Library at the Law Society of Ontario,"130 Queen Street West, Toronto",4.2,99,ChIJi22P2s00K4gRYjHQPz9dX7I,"library, point_of_interest, establishment",43.6520876,-79.38552539999999
+library,Osgoode Hall,"130 Queen Street West, Toronto",4.6,364,ChIJi22P2s00K4gRrwrq9B09zDA,"tourist_attraction, courthouse, museum, local_government_office, library, point_of_interest, establishment",43.652027,-79.3857558
+library,Toronto Public Library - Deer Park Branch,"40 Saint Clair Avenue East, Toronto",4.3,94,ChIJU_cJT0UzK4gRl1tR8VRtJQ8,"library, point_of_interest, establishment",43.688598,-79.3924335
+library,Toronto Public Library - Yorkville Branch,"22 Yorkville Avenue, Toronto",4.5,91,ChIJy9pO4q40K4gR4iE8kX27H-I,"library, point_of_interest, establishment",43.6718813,-79.3887063
+library,Toronto Public Library - Parkdale Branch,"1303 Queen Street West, Toronto",4.4,190,ChIJmegjQ6w1K4gRX8zkAumEVZE,"library, point_of_interest, establishment",43.6412275,-79.432594
+library,Toronto Public Library - Spadina Road Branch,"10 Spadina Road, Toronto",4,42,ChIJm2GMhzrL1IkROW3KZFx4BhA,"library, point_of_interest, establishment",43.6676598,-79.4045747
+library,Toronto Public Library - Dufferin/St. Clair Branch,"1625 Dufferin Street, Toronto",4.2,91,ChIJf1lG2XM0K4gRC4qE0tLj1HY,"library, point_of_interest, establishment",43.6769898,-79.44241199999999
+library,Map and Data Library,"130 Saint George Street #5, Toronto",4,4,ChIJNWZchb40K4gRDYtCpLh8NXE,"library, point_of_interest, establishment",43.66445350000001,-79.3995142
+library,Toronto Public Library - Locke Branch,"3083 Yonge Street, Toronto",4.5,92,ChIJo9Itcd0yK4gR4XEVnJH-bN8,"library, point_of_interest, establishment",43.7247927,-79.4018707
+library,Toronto Public Library - Palmerston Branch,"560 Palmerston Avenue, Toronto",4,56,ChIJ44WZio00K4gR_V1lTegmhoo,"library, point_of_interest, establishment",43.6651079,-79.414157
+lodging,Marriott Downtown at CF Toronto Eaton Centre,"525 Bay Street, Toronto",4.4,3338,ChIJ1WIA7Q7bKk0R9JK-tM30kE0,"lodging, point_of_interest, establishment",43.6547284,-79.3824216
+lodging,Sheraton Centre Toronto Hotel,"123 Queen Street West, Toronto",4.3,8979,ChIJxVYPt800K4gRFtI3GZJCKx4,"lodging, point_of_interest, establishment",43.6511953,-79.38425660000001
+lodging,Pantages Hotel Downtown Toronto,"200 Victoria Street, Toronto",3.9,1490,ChIJz187vjTL1IkRujBcS-WadQM,"lodging, point_of_interest, establishment",43.6546283,-79.3790873
+lodging,Hilton Toronto,"145 Richmond Street West, Toronto",4.2,5267,ChIJJd9P-800K4gRvTdTqtNCmQw,"lodging, point_of_interest, establishment",43.6498523,-79.3855762
+lodging,One King West Hotel & Residence,"1 King Street West, Toronto",4.4,5314,ChIJG74DgzLL1IkRu7-_ro1TbdY,"lodging, point_of_interest, establishment",43.6488726,-79.37807219999999
+lodging,Hotel Victoria,"56 Yonge Street, Toronto",4.1,793,ChIJNVvTvYrVKogRKKgdx9es58U,"lodging, point_of_interest, establishment",43.6481711,-79.3778652
+lodging,The Strathcona Hotel,"60 York Street, Toronto",3.9,1540,ChIJ9YfQANM0K4gRCaW92B6kLzg,"lodging, point_of_interest, establishment",43.6462572,-79.38317200000002
+lodging,Holiday Inn Express Toronto Downtown,"111 Lombard Street, Toronto",4.1,1922,ChIJeWNoPzHL1IkRhleUmv32wd4,"lodging, point_of_interest, establishment",43.6520945,-79.3727962
+lodging,Courtyard Toronto Downtown,"475 Yonge Street, Toronto",4.1,4500,ChIJW7OlX7Q0K4gR5IBJmoKVM34,"lodging, point_of_interest, establishment",43.66237960000001,-79.3830885
+lodging,Novotel Toronto Centre,"45 The Esplanade, Toronto",4.3,2523,ChIJ4Vom0XEtK4gRuU9aq9LpTqA,"lodging, point_of_interest, establishment",43.646567,-79.3742742
+lodging,Town Inn Suites,"620 Church Street, Toronto",3.7,1391,ChIJE21UDa00K4gR-lM_WRBnYsE,"lodging, point_of_interest, establishment",43.6691028,-79.382667
+lodging,The Yorkville Royal Sonesta Hotel Toronto,"220 Bloor Street West, Toronto",4.4,1489,ChIJAZueQrs0K4gRD7-f4-wfRCw,"lodging, point_of_interest, establishment",43.6685008,-79.3963843
+lodging,The Drake Hotel,"1150 Queen Street West, Toronto",4.3,5249,ChIJ8b_aGgA1K4gR3n2TF4fM1Es,"bar, lodging, restaurant, food, point_of_interest, establishment",43.6432497,-79.4246963
+lodging,Fairmont Royal York,"100 Front Street West, Toronto",4.4,11457,ChIJYY4qFdM0K4gRDydzDiP-VAE,"lodging, restaurant, food, point_of_interest, establishment",43.6460303,-79.381388
+lodging,"InterContinental Toronto Centre, an IHG Hotel","225 Front Street West, Toronto",4.4,3796,ChIJsaKz-NM0K4gRhHHTYt3SZps,"lodging, point_of_interest, establishment",43.6444547,-79.3854827
+lodging,"The Westin Harbour Castle, Toronto","1 Harbour Square, Toronto",4.3,8004,ChIJH-wxNCrL1IkRKANEYBdXw8k,"lodging, point_of_interest, establishment",43.64118029999999,-79.3762173
+lodging,Residence Inn Toronto Downtown/Entertainment District,"255 Wellington Street West, Toronto",4.3,2296,ChIJRQoITNc0K4gRMBoATwPJLYs,"lodging, point_of_interest, establishment",43.6447518,-79.3907274
+lodging,Hyatt Regency Toronto,"370 King Street West, Toronto",4.2,3957,ChIJuyuhDto0K4gRLlyZcBf0m3s,"lodging, point_of_interest, establishment",43.6464655,-79.39177169999999
+lodging,The Roehampton Hotel,"808 Mount Pleasant Road, Toronto",3.6,867,ChIJF7dXni8zK4gR2Oet5PpRnAk,"lodging, point_of_interest, establishment",43.7088817,-79.39063399999999
+lodging,"Revery Toronto Downtown, Curio Collection by Hilton","92 Peter Street, Toronto",4.2,1453,ChIJd2daaNo0K4gRELhObMfXhiw,"lodging, point_of_interest, establishment",43.6469903,-79.39323619999999
+mosque,Masjid Darussalam,"4 Thorncliffe Park Drive, East York",4.8,895,ChIJx04tteXM1IkRva12G7IUCZk,"mosque, place_of_worship, point_of_interest, establishment",43.70609049999999,-79.35083070000002
+mosque,Masjid Toronto,"168 Dundas Street West, Toronto",4.8,1293,ChIJWYls4Ms0K4gRYYmwyFpvgyM,"mosque, place_of_worship, point_of_interest, establishment",43.6554076,-79.3857459
+mosque,Madinah Masjid,"1015 Danforth Avenue, Toronto",4.9,1226,ChIJK0CdnYfM1IkRUrlZPhRyqbA,"mosque, place_of_worship, point_of_interest, establishment",43.6804494,-79.3361776
+mosque,Masjid Taqwa,"14 Ladysmith Avenue, Toronto",4.9,112,ChIJN9n9w3zM1IkRkIuJFJAxNo8,"mosque, place_of_worship, point_of_interest, establishment",43.6809365,-79.3314194
+mosque,Masjid Omar Bin Al-Khatab,"232 Parliament Street, Toronto",4.7,231,ChIJQcylZUfL1IkR8o9jkYPLAsI,"mosque, place_of_worship, point_of_interest, establishment",43.6573416,-79.3653326
+mosque,Masjid Toronto @ Adelaide,"86 Adelaide Street East, Toronto",4.9,563,ChIJQYiHZTHL1IkRnElmQH_Ymks,"mosque, place_of_worship, point_of_interest, establishment",43.6514455,-79.3743362
+mosque,CML HealthCare Inc.,"491 Lawrence Avenue West, North York",5,2,ChIJy8JlOqszK4gRSid_v1oRqjM,"mosque, hospital, place_of_worship, health, point_of_interest, establishment",43.71911799999999,-79.4288352
+mosque,Baitul Mukarram Islamic Society,"3340 Danforth Avenue, Scarborough",4.8,240,ChIJ6QaWjpDO1IkRiaip0K3vApI,"mosque, place_of_worship, point_of_interest, establishment",43.6938889,-79.2777486
+mosque,Bahen Prayer Hall,"40 Saint George Street, Toronto",4.9,52,ChIJl_sPs8A0K4gRSyucL6ml0fY,"mosque, place_of_worship, point_of_interest, establishment",43.65923669999999,-79.3973716
+mosque,Toronto Islamic Centre & Community Services,"817 Yonge Street, Toronto",4.9,469,ChIJjaZGyLM0K4gRF1LONDY8Xp4,"mosque, place_of_worship, point_of_interest, establishment",43.6725264,-79.3874306
+mosque,Hilal Committee of Metropolitan Toronto & Vicinity,"1015 Danforth Avenue, Toronto",4.1,86,ChIJ25BfnYfM1IkRGlTmqHfbKvU,"mosque, place_of_worship, point_of_interest, establishment",43.6804259,-79.3360659
+mosque,Jami Mosque Toronto | ISNA Canada,"56 Boustead Avenue, Toronto",4.8,364,ChIJ3cqDLzE0K4gRaHTU24QQL2c,"mosque, funeral_home, place_of_worship, book_store, store, point_of_interest, establishment",43.65332449999999,-79.454465
+mosque,65 Musalla,"65 Thorncliffe Park Drive #1, East York",4.8,153,ChIJQ0h9kvnM1IkRGvpETbbnwxo,"mosque, place_of_worship, point_of_interest, establishment",43.7034676,-79.34016799999999
+mosque,Masjid Alqalam,"2430 Dufferin Street, York",4.8,118,ChIJkyfDe-wzK4gR6NnSyHfNsog,"mosque, place_of_worship, point_of_interest, establishment",43.6979113,-79.4515888
+mosque,Al-Firdous Islamic Centre,"342A Marlee Avenue, North York",4.9,68,ChIJX5ivsb4zK4gRjCI1UfKqlH0,"mosque, place_of_worship, point_of_interest, establishment",43.7066163,-79.44311470000001
+mosque,Danforth Islamic Centre,"3018 Danforth Av, East York",4.6,90,ChIJCwerhSDM1IkRAaQ80TFDzRU,"mosque, place_of_worship, point_of_interest, establishment",43.69093769999999,-79.2906921
+mosque,"The Ismaili Centre, Toronto","49 Wynford Drive, Toronto",4.8,690,ChIJTf9_JafN1IkR2KtxTb9mpHk,"mosque, place_of_worship, point_of_interest, establishment",43.7240378,-79.3335709
+mosque,Masjid Daru-Al-Ullum Education Community center [Car Wash Building],"16 Orfus Road Unit 204, North York",4.6,93,ChIJ0XzFD80zK4gRT42OyruG_4Y,"mosque, place_of_worship, point_of_interest, establishment",43.7207285,-79.4571387
+mosque,Islamic Information & Dawah Centre International,"1168 Bloor Street West, Toronto",4.8,245,ChIJtdErZ0M0K4gRXljhU3ZBc-Q,"mosque, place_of_worship, point_of_interest, establishment",43.659633,-79.43698640000001
+mosque,Baitul Aman Masjid,"3114 Danforth Avenue, Scarborough",4.6,332,ChIJc9hKYp7O1IkRdgmsUA3RHsI,"mosque, place_of_worship, point_of_interest, establishment",43.6916667,-79.2875
+movie_theater,Scotiabank Theatre Toronto,"259 Richmond Street West, Toronto",4.4,8825,ChIJ6WXdCtA0K4gR5wmJfTBGe48,"movie_theater, point_of_interest, establishment",43.64877209999999,-79.3912304
+movie_theater,Hot Docs Ted Rogers Cinema,"506 Bloor Street West, Toronto",4.6,1370,ChIJJx6bz5M0K4gRxRx385CYfBY,"movie_theater, point_of_interest, establishment",43.66555160000001,-79.41046879999999
+movie_theater,Cineplex Cinemas Varsity and VIP,"55 Bloor Street West, Toronto",4,2240,ChIJLTU_M640K4gRaQZR7vR4QUI,"movie_theater, point_of_interest, establishment",43.6691551,-79.38851919999999
+movie_theater,Revue Cinema,"400 Roncesvalles Avenue, Toronto",4.7,1093,ChIJ_5FcgTY0K4gRCBLnsTyY_w4,"movie_theater, point_of_interest, establishment",43.6511344,-79.4511368
+movie_theater,Imagine Cinemas Market Square,"80 Front Street East, Toronto",4.6,1670,ChIJjatbyTHL1IkRiw9trQE10AA,"movie_theater, point_of_interest, establishment",43.64957549999999,-79.3724905
+movie_theater,Cineplex Cinemas Yonge-Eglinton and VIP,"2300 Yonge Street, Toronto",4.4,3003,ChIJG9EZzzwzK4gRru9SyjKdxiw,"movie_theater, point_of_interest, establishment",43.7073458,-79.39874069999999
+movie_theater,Tarragon Theatre,"30 Bridgman Avenue, Toronto",4.6,621,ChIJVyMbQps0K4gR0yuNOUzJmkw,"movie_theater, point_of_interest, establishment",43.6749246,-79.41285479999999
+movie_theater,The Royal,"608 College Street, Toronto",4.5,995,ChIJt6xW1_E0K4gRy1QoqXwJhHE,"movie_theater, point_of_interest, establishment",43.65520770000001,-79.4144814
+movie_theater,TIFF Lightbox,"350 King Street West, Toronto",4.7,4158,ChIJewSvlNA0K4gRlkERDVrMZ08,"movie_theater, tourist_attraction, museum, point_of_interest, establishment",43.6465513,-79.3904914
+movie_theater,Fox Theatre,"2236 Queen Street East, Toronto",4.7,825,ChIJQW8K0qvO1IkRfNsqQa1Wjos,"movie_theater, point_of_interest, establishment",43.672886,-79.2873109
+movie_theater,Imagine Cinemas Carlton Cinema,"20 Carlton Street, Toronto",4.4,1655,ChIJWZA23bQ0K4gR-2H4LJmxU_I,"movie_theater, point_of_interest, establishment",43.6615227,-79.3815788
+movie_theater,Vennersys Cinema Solutions,"1920 Yonge Street #200, Toronto",3,2,ChIJBQsL1dE0K4gRLvpRMxe_-lw,"movie_theater, point_of_interest, establishment",43.6986776,-79.39689729999999
+movie_theater,Cineforum,"463 Bathurst Street, Toronto",4.4,30,ChIJtx7WXOk0K4gRX2RlObHB1UI,"movie_theater, point_of_interest, establishment",43.6555957,-79.4071592
+movie_theater,Cineplex Cinemas Yorkdale,"3401 Dufferin Street, Toronto",4.3,3695,ChIJFTDYCDMyK4gRDdblaGrJiqA,"movie_theater, point_of_interest, establishment",43.7270118,-79.45063180000001
+movie_theater,Cineplex Cinemas Beaches,"1651 Queen Street East, Toronto",4.2,1121,ChIJcbP7YYvL1IkRuTEfhw_D_fY,"movie_theater, point_of_interest, establishment",43.6664844,-79.31446509999999
+movie_theater,Necessary Angel Theatre,"401 Richmond Street West #393, Toronto",4.5,2,ChIJi7D-pts0K4gRejZdhWeUtFo,"movie_theater, point_of_interest, establishment",43.6476322,-79.3950698
+movie_theater,Socialive Media INC.,"388 Richmond Street West, Toronto",5,1,ChIJbwfgBts0K4gRCUZ8TfRl9OQ,"movie_theater, point_of_interest, establishment",43.64828789999999,-79.3952335
+movie_theater,Cineplex Cinemas Yonge-Dundas and VIP,"10 Dundas Street East #402, Toronto",4.3,5442,ChIJP57_08o0K4gR2yfX1OUw3jI,"movie_theater, point_of_interest, establishment",43.6569252,-79.3803939
+movie_theater,Jackman Hall,"317 Dundas Street West, Toronto",4.3,49,ChIJg4A9-MU0K4gRdjj7OObgzkw,"movie_theater, point_of_interest, establishment",43.65395470000001,-79.3914534
+movie_theater,Lewis Kay Casting,"10 Saint Mary Street, Toronto",N/A,N/A,ChIJXzjtArI0K4gR7p0Vhy7_EX4,"movie_theater, point_of_interest, establishment",43.66805720000001,-79.38638449999999
+museum,Harbourfront Centre,"235 Queens Quay West, Toronto",4.6,20675,ChIJydISiio1K4gRlUBlxQfjf3Q,"tourist_attraction, museum, point_of_interest, establishment",43.638834,-79.3818785
+museum,Casa Loma,"1 Austin Terrace, Toronto",4.5,29756,ChIJs6Elz500K4gRT1jWAsHIfGE,"museum, tourist_attraction, point_of_interest, establishment",43.67803709999999,-79.4094439
+museum,Art Gallery of Ontario,"317 Dundas Street West, Toronto",4.7,17222,ChIJvRlT7cU0K4gRr0bg7VV3J9o,"tourist_attraction, museum, point_of_interest, establishment",43.6536066,-79.39251229999999
+museum,Royal Ontario Museum,"100 Queens Park, Toronto",4.7,36974,ChIJE-Xa87o0K4gRkvXFHuE0hMk,"tourist_attraction, museum, point_of_interest, establishment",43.6677097,-79.3947771
+museum,Hockey Hall of Fame,"30 Yonge Street, Toronto",4.7,6102,ChIJsRjTsS3L1IkRC177bW2To_4,"museum, tourist_attraction, point_of_interest, establishment",43.6472722,-79.37769019999999
+museum,Fort York National Historic Site,"250 Fort York Boulevard, Toronto",4.5,2419,ChIJIf-jex81K4gRG9Y_vJpWT6c,"museum, point_of_interest, establishment",43.6392417,-79.40414480000001
+museum,Toronto's First Post Office,"260 Adelaide Street East, Toronto",4.6,128,ChIJ4w7vvjDL1IkRcZTVqcsoXbc,"post_office, museum, finance, point_of_interest, store, establishment",43.6518929,-79.370408
+museum,Mackenzie House,"82 Bond Street, Toronto",4.6,244,ChIJI5Tl5DTL1IkReSFv9ZruCiA,"tourist_attraction, museum, point_of_interest, establishment",43.6556693,-79.37842839999999
+museum,TIFF Lightbox,"350 King Street West, Toronto",4.7,4158,ChIJewSvlNA0K4gRlkERDVrMZ08,"movie_theater, tourist_attraction, museum, point_of_interest, establishment",43.6465513,-79.3904914
+museum,Osgoode Hall,"130 Queen Street West, Toronto",4.6,364,ChIJi22P2s00K4gRrwrq9B09zDA,"tourist_attraction, courthouse, museum, local_government_office, library, point_of_interest, establishment",43.652027,-79.3857558
+museum,Spadina Museum,"285 Spadina Road, Toronto",4.6,775,ChIJkQDc4500K4gReLP2DQUA_Tk,"tourist_attraction, museum, point_of_interest, establishment",43.6789935,-79.4081472
+museum,Gardiner Museum,"111 Queens Park, Toronto",4.4,420,ChIJiwxr6Lo0K4gR7ZmhAyZhlxw,"tourist_attraction, museum, restaurant, food, point_of_interest, store, establishment",43.6680934,-79.39315309999999
+museum,Todmorden Mills Heritage Site,"67 Pottery Road, Toronto",4.5,319,ChIJIzAMGr3M1IkRhpKRVo1BpFM,"tourist_attraction, museum, point_of_interest, establishment",43.68648099999999,-79.36013129999999
+museum,Ontario Black History Society,"10 Adelaide Street East, Toronto",3.9,10,ChIJIdFj8DLL1IkRpnwpDSZXDZI,"museum, point_of_interest, establishment",43.650802,-79.3779253
+museum,The Market Gallery,"95 Front Street East, Toronto",4.4,41,ChIJkS9kNjDL1IkRIQQRLfAEbHo,"art_gallery, tourist_attraction, museum, point_of_interest, establishment",43.64873,-79.371541
+museum,SHEVCHENKO MUSEUM • LIBRARY • GALLERIES,"1604 Bloor Street West, Toronto",4.8,59,ChIJ0y0eRl40K4gRtUwlj5CIOCw,"museum, point_of_interest, establishment",43.6559971,-79.45524809999999
+museum,"Ukrainian Museum of Canada, Ontario Branch","620 Spadina Avenue, Toronto",4.5,24,ChIJfe_Bxb80K4gRJs6viaYhK-s,"museum, tourist_attraction, point_of_interest, establishment",43.6619935,-79.4020864
+museum,Haley Sharpe Design (Canada) Inc.,"75 Sherbourne Street, Toronto",N/A,N/A,ChIJP_4dvts0K4gRafRrOjRymAw,"museum, point_of_interest, establishment",43.6528009,-79.3682566
+museum,Tatar Art Projects,"147 Liberty Street Suite 202, Toronto",N/A,N/A,ChIJr5GtwN40K4gRNqKYy4ZY66s,"art_gallery, museum, local_government_office, spa, lodging, point_of_interest, store, establishment",43.6374035,-79.4243852
+museum,Fresh Never Frozen Art,"258 Wallace Avenue Studio 108, Toronto",3.7,3,ChIJBalpjkA0K4gRAgth1-PVy94,"museum, point_of_interest, establishment",43.66218859999999,-79.44751409999999
+night_club,The Rex Hotel Jazz and Blues Bar,"194 Queen Street West, Toronto",4.4,3525,ChIJUxg5Mc40K4gRqeelKegdE3c,"night_club, bar, lodging, restaurant, food, point_of_interest, establishment",43.6505964,-79.3885233
+night_club,Lula Lounge,"1585 Dundas Street West, Toronto",4.1,988,ChIJU5PajlE0K4gR2DFfnGb6rOg,"night_club, bar, restaurant, food, point_of_interest, establishment",43.6497277,-79.4345802
+night_club,Phoenix Concert Theatre,"410 Sherbourne Street, Toronto",4.2,3608,ChIJy7FoiE7L1IkRwg3ARacgFlA,"night_club, point_of_interest, establishment",43.6646119,-79.3740471
+night_club,The Reservoir Lounge,"52 Wellington Street East, Toronto",4.6,1196,ChIJ3Ruu_zHL1IkRzgFxJbztyWQ,"night_club, bar, restaurant, food, point_of_interest, establishment",43.64858479999999,-79.3745828
+night_club,House Of Lancaster Two,"1215 Bloor Street West, Toronto",3.7,126,ChIJQ_EScEQ0K4gRJJZINsxDxec,"night_club, bar, point_of_interest, establishment",43.6586848,-79.4400539
+night_club,The Piston,"937 Bloor Street West, Toronto",4.3,470,ChIJRywkt180K4gRZ4poPVaI9UM,"bar, night_club, point_of_interest, establishment",43.66138350000001,-79.42761569999999
+night_club,Insomnia Restaurant and Lounge,"563 Bloor Street West, Toronto",4.4,3704,ChIJdccXyZM0K4gRu9mnZpTFdtY,"restaurant, night_club, bar, food, point_of_interest, establishment",43.665107,-79.410831
+night_club,Reposado Bar & Lounge,"136 Ossington Avenue, Toronto",4.2,797,ChIJMbYipv40K4gR9AED85vYDHo,"bar, night_club, restaurant, food, point_of_interest, establishment",43.6472981,-79.4201652
+night_club,Writers Room Bar,"4 Avenue Road, Toronto",4.4,733,ChIJ195p17o0K4gRKpPSQBiPJG4,"night_club, bar, point_of_interest, establishment",43.6688232,-79.3946223
+night_club,El Convento Rico,"750 College Street, Toronto",4.1,584,ChIJJ-DsKvE0K4gRfNGE7ONVzbY,"night_club, bar, point_of_interest, establishment",43.6552772,-79.41965440000001
+night_club,The Emmet Ray Whisky Jazz Bar,"924 College Street, Toronto",4.6,708,ChIJw1ylCFg0K4gRNcy5mMX54uM,"night_club, bar, restaurant, food, point_of_interest, establishment",43.6539151,-79.42568729999999
+night_club,Club Paradise,"1313 Bloor Street West, Toronto",3.6,77,ChIJqyP77EY0K4gR2FVRpfZW_ic,"night_club, point_of_interest, establishment",43.65794169999999,-79.44370049999999
+night_club,Forbidden City,"200 Princes' Boulevard, Toronto",3.7,67,ChIJ8dvP7gg1K4gRvi8zTYtkVdk,"night_club, point_of_interest, establishment",43.6327801,-79.4217919
+night_club,The Comrade,"758 Queen Street East, Toronto",4.5,760,ChIJRdjd6W3L1IkReagvlGPQbrY,"bar, night_club, restaurant, food, point_of_interest, establishment",43.65948169999999,-79.34797669999999
+night_club,Velvet Underground,"508 Queen Street West, Toronto",4.3,1327,ChIJdQEKlt00K4gRk_z_cTKsXqE,"night_club, point_of_interest, establishment",43.6479006,-79.4015411
+night_club,Buddies in Bad Times Theatre,"12 Alexander Street, Toronto",4.6,741,ChIJ70k1g7Q0K4gRdZbTK10OV5A,"night_club, point_of_interest, establishment",43.6633185,-79.38306589999999
+night_club,Cake Bar & Nightclub,"214 Adelaide Street West, Toronto",3,242,ChIJ0ZKQwNE0K4gRoXARYglzPEk,"night_club, bar, point_of_interest, establishment",43.6485905,-79.38763039999999
+night_club,Crews & Tangos,"508 Church Street, Toronto",3.8,668,ChIJtQsiS7M0K4gRgR8DOWCnDQo,"night_club, bar, point_of_interest, establishment",43.66424440000001,-79.3805639
+night_club,On the Rocks,"169 Front Street East, Toronto",4.2,412,ChIJ48tqhzrL1IkRJMWkATSWsWs,"restaurant, night_club, bar, food, point_of_interest, establishment",43.6501227,-79.3683839
+night_club,Kramer's Bar & Grill,"1915 Yonge Street, Toronto",4.1,778,ChIJTaubujgzK4gR6jZznuTyrq0,"bar, night_club, restaurant, food, point_of_interest, establishment",43.69861299999999,-79.396484
+park,Wychwood Barns Park,"76 Wychwood Avenue, Toronto",4.5,1533,ChIJIWclQ4A0K4gR8JAX-sYlRA8,"park, tourist_attraction, point_of_interest, establishment",43.67992780000001,-79.42319719999999
+park,Anniversary Park,"410 Parliament Street, Toronto",3.3,59,ChIJpSwR30XL1IkRPPKA7T2l7A8,"park, point_of_interest, establishment",43.6621417,-79.3674305
+park,The Toronto Inukshuk Park,"789 Lake Shore Boulevard West, Toronto",4.5,284,ChIJ7ftopBA1K4gRdYf-wjwx0fQ,"park, tourist_attraction, point_of_interest, establishment",43.6324143,-79.40960040000002
+park,E.T. Seton Park - North,"1100 Leslie Street, North York",4.7,252,ChIJUwKDS_jM1IkRrCKSoAwIyfc,"park, point_of_interest, establishment",43.71655760000001,-79.349013
+park,Tommy Thompson Park,"1 Leslie Street, Toronto",4.7,2581,ChIJlQx0rVXK1IkRW1YiBCI5e74,"tourist_attraction, park, point_of_interest, establishment",43.6352117,-79.3248521
+park,Oriole Park,"201 Oriole Parkway, Toronto",4.6,1079,ChIJ28YRZ0AzK4gRX1I9zXd2Afk,"park, tourist_attraction, point_of_interest, establishment",43.6972086,-79.4000478
+park,Dufferin Grove Park,"875 Dufferin Street, Toronto",4.5,2079,ChIJv9_OSlo0K4gRRMtLy297twI,"park, tourist_attraction, point_of_interest, establishment",43.6565553,-79.43276370000001
+park,Coronation Park,"711 Lake Shore Boulevard West, Toronto",4.6,2461,ChIJg_6f-hk1K4gRyTWwWCJDYIk,"park, tourist_attraction, point_of_interest, establishment",43.6337818,-79.40689150000001
+park,Edwards Gardens,"755 Lawrence Avenue East, North York",4.7,8295,ChIJGXyiWUDN1IkR50ZWv092iYU,"tourist_attraction, park, point_of_interest, establishment",43.73380390000001,-79.357924
+park,High Park,"1873 Bloor Street West, Toronto",4.7,27383,ChIJBfc2I9M1K4gRZ-4AoyXIvAE,"park, tourist_attraction, point_of_interest, establishment",43.64654789999999,-79.4636903
+park,Trinity Bellwoods Park,"790 Queen Street West, Toronto",4.6,8813,ChIJ29zuWfs0K4gRu3X7rsgi-wM,"park, tourist_attraction, point_of_interest, establishment",43.6472825,-79.4137246
+park,HTO Park,"339 Queens Quay West, Toronto",4.6,4088,ChIJ8-sgqCk1K4gR0_mUUc0tYhU,"park, tourist_attraction, point_of_interest, establishment",43.6377999,-79.38817089999999
+park,Nordheimer Ravine,"326 Spadina Road, Toronto",4.6,206,ChIJz18aIGMzK4gRxTLBaFuBS9c,"park, tourist_attraction, point_of_interest, establishment",43.6829834,-79.4125308
+park,West Lodge Park,"165 Lansdowne Avenue, Toronto",3.8,135,ChIJX77XFE00K4gRB5OU49hzIw4,"park, tourist_attraction, point_of_interest, establishment",43.645926,-79.437939
+park,Beaumont Park,"9 A Beaumont Road, Toronto",4.5,64,ChIJB2TKcqnM1IkR6sc-QVknj4k,"park, tourist_attraction, point_of_interest, establishment",43.67968349999999,-79.37331879999999
+park,The Tollkeeper's Park,"750 Davenport Road, Toronto",4.4,34,ChIJ7RGxdoM0K4gRS83UNxjfsJk,"park, tourist_attraction, point_of_interest, establishment",43.6770672,-79.4171746
+park,MacGregor Playground,"346 Lansdowne Avenue, Toronto",4.6,340,ChIJWc8KM080K4gR1etvL5yqEjY,"tourist_attraction, park, point_of_interest, establishment",43.6532544,-79.4419076
+park,Ritchie Avenue Parkette,"77 Ritchie Avenue, Toronto",4.2,22,ChIJ45LOxjc0K4gR-Z2Taz4S-J8,"park, point_of_interest, establishment",43.6538841,-79.44907260000001
+park,Frank Stollery Parkette,"1 Davenport Road, Toronto",4.3,8,ChIJw1Dm2q40K4gRIDm8bJUv330,"park, point_of_interest, establishment",43.6727139,-79.38841219999999
+park,Liberty Village Park,"70 East Liberty Street, Toronto",4.3,356,ChIJRTtQsRw1K4gRYQqTqF97j0o,"park, tourist_attraction, point_of_interest, establishment",43.6388272,-79.41472809999999
+pharmacy,Metro,"80 Front Street East, Toronto",4.2,2950,ChIJjatbyTHL1IkR_CmCMhdOklY,"supermarket, pharmacy, grocery_or_supermarket, food, health, store, point_of_interest, establishment",43.64920339999999,-79.37273449999999
+pharmacy,Shoppers Drug Mart,"565 Sherbourne Street Unit 40, Toronto",3.2,156,ChIJcxsyylPL1IkRA45C293Dw3U,"pharmacy, drugstore, health, store, point_of_interest, establishment",43.670158,-79.375637
+pharmacy,Shoppers Drug Mart,"69 Yonge Street, Toronto",3.2,112,ChIJByZAgTLL1IkRgcbyATRQHEU,"pharmacy, drugstore, health, store, point_of_interest, establishment",43.649001,-79.37764
+pharmacy,Shoppers Drug Mart,"1090 King Street West, Toronto",2.8,156,ChIJ7wobex01K4gRAQKu5GfUuBs,"pharmacy, drugstore, health, store, point_of_interest, establishment",43.640037,-79.422235
+pharmacy,Rexall,"595 Bay Street, Toronto",3.1,64,ChIJi3ZRr8s0K4gRVRvRrmALocg,"drugstore, pharmacy, convenience_store, food, health, store, point_of_interest, establishment",43.656219,-79.38329
+pharmacy,Rexall,"1245 Dupont Street Store #2287, Toronto",3.3,59,ChIJ4_zARWk0K4gR_mCPdyXEr34,"drugstore, pharmacy, convenience_store, food, health, store, point_of_interest, establishment",43.66803590000001,-79.4410465
+pharmacy,Shoppers Drug Mart,"524 Queen Street West, Toronto",3.3,132,ChIJFSePkt00K4gRIoNbVyZlHY4,"pharmacy, drugstore, health, store, point_of_interest, establishment",43.647818,-79.402303
+pharmacy,Shoppers Drug Mart,"2345 Yonge Street, Toronto",2.1,558,ChIJgR5H2S8zK4gReu9ah2C-pL8,"pharmacy, drugstore, health, store, point_of_interest, establishment",43.70894899999999,-79.39784999999999
+pharmacy,Shoppers Drug Mart,"970 Queen Street East, Toronto",2.5,290,ChIJqQr6y3bL1IkRHLGrGoMAD3Q,"pharmacy, drugstore, health, store, point_of_interest, establishment",43.661205,-79.34065799999999
+pharmacy,Shoppers Drug Mart,"180 Danforth Avenue, Toronto",3.5,125,ChIJGcr8k5_M1IkRcrANdKNEb8Q,"pharmacy, drugstore, health, store, point_of_interest, establishment",43.676825,-79.357028
+pharmacy,Rexall,"1421 Dundas Street West, Toronto",3.7,44,ChIJJwmQl1Y0K4gRTT5ovMCyG0A,"drugstore, pharmacy, health, store, point_of_interest, establishment",43.649371,-79.429274
+pharmacy,Shoppers Drug Mart,"20 Bloor Street East, Toronto",2.9,128,ChIJ64KdcK40K4gRdyK_3W_cP9E,"pharmacy, drugstore, health, store, point_of_interest, establishment",43.67099699999999,-79.38498799999999
+pharmacy,Shoppers Drug Mart,"728 Yonge Street, Toronto",2.8,179,ChIJD8FaAa40K4gRZ2P976m28xw,"pharmacy, drugstore, health, store, point_of_interest, establishment",43.66857599999999,-79.386213
+pharmacy,Shoppers Drug Mart,"725 College Street, Toronto",3,127,ChIJuWuAKPE0K4gRl2bEmw91Pmo,"pharmacy, drugstore, health, store, point_of_interest, establishment",43.65426300000001,-79.418914
+pharmacy,Shoppers Drug Mart,"1630 Danforth Avenue, Toronto",3.4,206,ChIJLexKp2_M1IkRW0VY3xqujKU,"pharmacy, drugstore, health, store, point_of_interest, establishment",43.68390099999999,-79.322189
+pharmacy,Metro,"100 Lynn Williams Street, Toronto",4.2,2436,ChIJf1QkugM1K4gRs9qdBQa90dY,"supermarket, pharmacy, grocery_or_supermarket, food, health, store, point_of_interest, establishment",43.639899,-79.417813
+pharmacy,Rexall,"120 Adelaide Street West Unit # R28, Toronto",4,27,ChIJfczpedI0K4gRKBB6qeQzYXE,"drugstore, pharmacy, convenience_store, food, health, store, point_of_interest, establishment",43.64997199999999,-79.383223
+pharmacy,VCA Canada Downtown Animal Hospital,"579 Church Street, Toronto",4.1,763,ChIJeWcZoLI0K4gRxCm0VYzjizY,"pharmacy, veterinary_care, health, store, point_of_interest, establishment",43.6680188,-79.38164499999999
+pharmacy,Shoppers Drug Mart,"360A Bloor Street West, Toronto",2.3,264,ChIJx8PSZ5Y0K4gRBX0bDpQZ8GU,"pharmacy, drugstore, health, store, point_of_interest, establishment",43.66654399999999,-79.405056
+pharmacy,Shoppers Drug Mart,"236 Bloor Street West, Toronto",3,125,ChIJx8PSZ5Y0K4gRHYKL3gLHfLs,"pharmacy, drugstore, health, store, point_of_interest, establishment",43.668359,-79.396761
+restaurant,The Drake Hotel,"1150 Queen Street West, Toronto",4.3,5249,ChIJ8b_aGgA1K4gR3n2TF4fM1Es,"bar, lodging, restaurant, food, point_of_interest, establishment",43.6432497,-79.4246963
+restaurant,Fairmont Royal York,"100 Front Street West, Toronto",4.4,11457,ChIJYY4qFdM0K4gRDydzDiP-VAE,"lodging, restaurant, food, point_of_interest, establishment",43.6460303,-79.381388
+restaurant,Gladstone House,"1214 Queen Street West, Toronto",4.4,2785,ChIJwScp6qo1K4gRcuheo9LY6ZI,"art_gallery, bar, lodging, restaurant, food, point_of_interest, establishment",43.642698,-79.426906
+restaurant,Windsor Arms Hotel,"18 Saint Thomas Street, Toronto",3.9,1255,ChIJZejXHbA0K4gRVuq7QVSGyNI,"spa, lodging, restaurant, food, point_of_interest, establishment",43.66883109999999,-79.3909348
+restaurant,The Rex Hotel Jazz and Blues Bar,"194 Queen Street West, Toronto",4.4,3525,ChIJUxg5Mc40K4gRqeelKegdE3c,"night_club, bar, lodging, restaurant, food, point_of_interest, establishment",43.6505964,-79.3885233
+restaurant,HOTEL OCHO,"195 Spadina Avenue, Toronto",4.3,703,ChIJM9YdEZk0K4gRxwikpBboKTM,"bar, lodging, restaurant, food, point_of_interest, establishment",43.6500042,-79.39639
+restaurant,Marquis Lounge and Bistro,"92 Peter Street, Toronto",4.4,9,ChIJd2daaNo0K4gRwWZtnRjAxgs,"restaurant, bar, food, point_of_interest, establishment",43.6469792,-79.3932286
+restaurant,7 West Cafe,"7 Charles Street West, Toronto",4,3078,ChIJs_Gr4rE0K4gR4PCci36eEkg,"cafe, meal_takeaway, meal_delivery, bar, restaurant, food, point_of_interest, establishment",43.6684876,-79.386714
+restaurant,Adega Restaurante,"33 Elm Street, Toronto",4.5,748,ChIJWeGuX8o0K4gR0CrzlkI2Z5c,"restaurant, food, point_of_interest, establishment",43.6574337,-79.3832666
+restaurant,Terroni,"57 Adelaide Street East, Toronto",4.2,6320,ChIJT1kRzTPL1IkRqYD-w3lcprg,"restaurant, food, point_of_interest, establishment",43.6509246,-79.3756963
+restaurant,The Keg Steakhouse + Bar - York Street,"165 York Street, Toronto",4.5,4167,ChIJ5V02ks00K4gRYYwaCejHhEE,"restaurant, bar, food, point_of_interest, establishment",43.6499945,-79.3839517
+restaurant,Jump Restaurant,"18 Wellington Street West, Toronto",4.2,1032,ChIJMT8zEy3L1IkRndhPq4mIQXk,"bar, restaurant, food, point_of_interest, establishment",43.64779109999999,-79.3782409
+restaurant,The Senator,"249 Victoria Street, Toronto",4.3,1481,ChIJWcH-2zTL1IkRqB8N3YUw6-I,"restaurant, food, point_of_interest, establishment",43.6557062,-79.37917379999999
+restaurant,Real Sports,"15 York Street, Toronto",4.2,5180,ChIJt7OCSivL1IkRqoZxo87YSYc,"bar, restaurant, food, point_of_interest, establishment",43.64259329999999,-79.3800048
+restaurant,Donatello Restaurant,"37 Elm Street, Toronto",4.3,1416,ChIJ7ZeFXso0K4gRqGxxcej0DjY,"restaurant, food, point_of_interest, establishment",43.6573753,-79.383461
+restaurant,Jack Astor's Bar & Grill Front Street,"144 Front Street West, Toronto",4.2,7522,ChIJK2lqhdM0K4gRRLfXBys5VBc,"bar, restaurant, food, point_of_interest, establishment",43.6454042,-79.383916
+restaurant,Tim Hortons,"55 York Street, Toronto",3.9,1731,ChIJcfAUD9M0K4gRaEg0EJkSGKo,"cafe, bakery, restaurant, food, store, point_of_interest, establishment",43.6461046,-79.3825715
+restaurant,Canoe,"66 Wellington Street West 54th floor, Toronto",4.4,3238,ChIJKSp50NI0K4gR6C6L3yYqpYY,"bar, restaurant, food, point_of_interest, establishment",43.6475793,-79.38090369999999
+restaurant,Salad King,"340 Yonge Street, Toronto",4.2,4525,ChIJ2Uabx8o0K4gR0prH0ZEi390,"meal_takeaway, meal_delivery, restaurant, food, point_of_interest, establishment",43.6577202,-79.3816274
+restaurant,Scotland Yard Pub,"56 The Esplanade, Toronto",4.4,2105,ChIJFy2acS7L1IkRpOsjQVss1yw,"bar, restaurant, food, point_of_interest, establishment",43.6470917,-79.37404169999999
+shopping_mall,CF Toronto Eaton Centre,"220 Yonge Street, Toronto",4.4,52754,ChIJvUYHUcs0K4gRN8i7jHsUiYs,"shopping_mall, point_of_interest, establishment",43.6544382,-79.3806994
+shopping_mall,Manulife Centre,"55 Bloor Street West, Toronto",4.2,3024,ChIJZ5aVM640K4gRn0YPjIKUP_4,"shopping_mall, point_of_interest, establishment",43.6696176,-79.3886462
+shopping_mall,Dufferin Mall,"900 Dufferin Street, Toronto",4.2,14956,ChIJqVQVxVo0K4gR3uQgqESecTc,"shopping_mall, point_of_interest, establishment",43.6558241,-79.435698
+shopping_mall,RioCan,"2300 Yonge Street Suite 2200, Toronto",3.7,57,ChIJjTXGtzwzK4gR1CEg8zdUT8o,"shopping_mall, point_of_interest, establishment",43.70726929999999,-79.3996009
+shopping_mall,Bloor-Yorkville Business Improvement Area,"77 Bloor Street West, Toronto",4.5,46,ChIJKcn41rE0K4gR3OYrwaw9Uus,"shopping_mall, point_of_interest, establishment",43.6692249,-79.38970789999999
+shopping_mall,First Canadian Place,"100 King Street West, Toronto",4.3,6113,ChIJf3Z9pdI0K4gRMfvVn-uyWpM,"shopping_mall, point_of_interest, establishment",43.64861109999999,-79.3816667
+shopping_mall,Galleria Shopping Centre,"1245 Dupont Street, Toronto",3.5,2477,ChIJN056aGk0K4gRQgfgHg2YfAo,"shopping_mall, point_of_interest, establishment",43.66759299999999,-79.44190929999999
+shopping_mall,Yorkdale Shopping Centre,"3401 Dufferin Street, Toronto",4.5,39415,ChIJoYAZDTQyK4gRuR4PYg_YSJk,"shopping_mall, point_of_interest, establishment",43.725435,-79.4521692
+shopping_mall,Atrium,"595 Bay Street, Toronto",4.1,3395,ChIJ455Vqss0K4gR36Q6R4jCPsc,"shopping_mall, point_of_interest, establishment",43.6565962,-79.38269300000002
+shopping_mall,CF Shops at Don Mills,"1090 Don Mills Road, Toronto",4.4,10386,ChIJD3IDQXLN1IkRzCC_4M7jlnY,"shopping_mall, point_of_interest, establishment",43.7339042,-79.3440459
+shopping_mall,Hudson's Bay,"3401 Dufferin Street, North York",4.2,3554,ChIJFTDYCDMyK4gRy50w2RUEaZE,"department_store, shoe_store, shopping_mall, clothing_store, store, point_of_interest, establishment",43.7263211,-79.4552617
+shopping_mall,The Distillery Historic District,"55 Mill Street, Toronto",4.6,22649,ChIJZ0jwFfA2K4gRqTyv02J5Io4,"tourist_attraction, shopping_mall, point_of_interest, establishment",43.6502455,-79.3591331
+shopping_mall,Chinatown Centre,"222 Spadina Avenue, Toronto",3.6,2595,ChIJOdWvTcM0K4gRjX-v3rTNlNg,"shopping_mall, point_of_interest, establishment",43.6509789,-79.39831790000001
+shopping_mall,TagBuy,"348 Queen Street West, Toronto",2,1,ChIJjypbF9s0K4gRSTfbpeY8IY4,"beauty_salon, shopping_mall, point_of_interest, establishment",43.6492684,-79.39540939999999
+shopping_mall,Gerrard Square Shopping Centre,"1000 Gerrard Street East, Toronto",3.8,6090,ChIJ2xaezn7L1IkRRjtovx6DY34,"shopping_mall, point_of_interest, establishment",43.6693301,-79.3391606
+shopping_mall,Aura Concourse Shopping Mall,"384 Yonge Street, Toronto",3.9,1381,ChIJ6yjScLU0K4gRMbT9lwM8bbQ,"shopping_mall, point_of_interest, establishment",43.65966239999999,-79.3825772
+shopping_mall,Plaza,"50 Wellesley Street East, Toronto",5,1,ChIJYZpCA7M0K4gR8ZpxoZ0UZ0U,"shopping_mall, point_of_interest, establishment",43.6656146,-79.3824471
+shopping_mall,Holt Renfrew Centre,"50 Bloor Street West, Toronto",4.2,940,ChIJcRfDQ640K4gRd1dWDo1yNsg,"shopping_mall, point_of_interest, establishment",43.67031959999999,-79.38819509999999
+shopping_mall,The Ordinary. DECIEM The Abnormal Beauty Company,"1240 Bay Street #113, Toronto",4.3,315,ChIJvWEYvq80K4gRBlWWcq_pOaA,"shopping_mall, store, point_of_interest, establishment",43.670201,-79.39073499999999
+shopping_mall,Yorkville Village,"55 Avenue Road Suite 2250, Toronto",4.4,2174,ChIJoQGlVqQ0K4gRS3EJz-sq0C0,"shopping_mall, point_of_interest, establishment",43.6718657,-79.3950406
+spa,Windsor Arms Hotel,"18 Saint Thomas Street, Toronto",3.9,1255,ChIJZejXHbA0K4gRVuq7QVSGyNI,"spa, lodging, restaurant, food, point_of_interest, establishment",43.66883109999999,-79.3909348
+spa,Old Mill Toronto Hotel,"9 Old Mill Road, Etobicoke",4.4,3953,ChIJh2leSPU2K4gRyl33gw24rxQ,"spa, lodging, point_of_interest, establishment",43.6507434,-79.4928485
+spa,Four Seasons Hotel Toronto,"60 Yorkville Avenue, Toronto",4.7,3451,ChIJ9RKx2KQ0K4gRT1k8DuHyJkM,"spa, lodging, point_of_interest, establishment",43.6716834,-79.389725
+spa,Hammam Spa by Céla King West,"602 King Street West, Toronto",4.3,697,ChIJBXrMXt40K4gRMXDfeVIucgA,"spa, beauty_salon, hair_care, point_of_interest, establishment",43.64456560000001,-79.4002979
+spa,Elmwood Spa,"18 Elm Street, Toronto",4.4,2607,ChIJ4btAjMo0K4gRlM3sFt9TfmE,"spa, point_of_interest, establishment",43.6577969,-79.3826732
+spa,Damara Day Spa - Yorkville,"66 Avenue Road, Toronto",4.5,352,ChIJZ5iu8aQ0K4gR6Xrk0gbAJhI,"beauty_salon, spa, store, hair_care, point_of_interest, establishment",43.6716044,-79.3956712
+spa,Body Blitz Spa West,"471 Adelaide Street West, Toronto",4.4,683,ChIJGz5cgd40K4gRO5-bmB4S7pQ,"spa, point_of_interest, establishment",43.6456734,-79.39970679999999
+spa,Stillwater Spa,"4 Avenue Road, Toronto",4,74,ChIJ195p17o0K4gRGQcGHvy_oJY,"spa, point_of_interest, establishment",43.66912079999999,-79.39453739999999
+spa,Baywood Clinic,"1033 Bay Street suite 303, Toronto",4.6,112,ChIJg8Q6CrE0K4gRItiNOaDR3GY,"beauty_salon, spa, hair_care, health, point_of_interest, establishment",43.666027,-79.3874909
+spa,Second Skin Medspa,"1 Eglinton Avenue East c400, Toronto",3.7,46,ChIJoQgRrzwzK4gRXRjS3vdCwDM,"spa, beauty_salon, hair_care, health, point_of_interest, establishment",43.7065725,-79.3978162
+spa,THE TEN SPOT,"916 Queen Street East, Toronto",4.6,341,ChIJ-3XJfYXL1IkRRXY9zwPlIJc,"spa, beauty_salon, hair_care, health, point_of_interest, establishment",43.6607255,-79.34212649999999
+spa,Aroma Waxing & Laser Clinic,"588 Bloor Street West, Toronto",4.6,437,ChIJFz5tapI0K4gRXstglu9eubI,"beauty_salon, spa, hair_care, health, point_of_interest, establishment",43.6649877,-79.4128164
+spa,La Perla Salon & Spa,"112 Elizabeth Street, Toronto",4.5,163,ChIJ6-iM-Ms0K4gRCOH09j6qrlc,"beauty_salon, spa, hair_care, health, point_of_interest, establishment",43.6548941,-79.38515009999999
+spa,Mayfair Clubs - Lakeshore,"801 Lake Shore Boulevard East, Toronto",4.4,227,ChIJBZQMSAvL1IkRzIg1sr7cJxg,"gym, spa, health, point_of_interest, establishment",43.653318,-79.3380627
+spa,Francesca Salon & Spa,"333a Lonsdale Road, Toronto",4.5,48,ChIJS38pPmUzK4gRT18jl5dDL4Q,"beauty_salon, spa, hair_care, point_of_interest, establishment",43.6884489,-79.41302689999999
+spa,Studios Vis A Vis | Facial Spa,"780 College Street, Toronto",4.8,144,ChIJfbK2Jvc0K4gRP6TO5Bp4Oj0,"beauty_salon, spa, store, health, point_of_interest, establishment",43.65491539999999,-79.42079009999999
+spa,Jade Wellness Clinic,"Above Starbucks Coffee, 3050 Yonge Street, Toronto",4.5,196,ChIJnVk0et0yK4gRue0MVR0kcyc,"beauty_salon, spa, point_of_interest, establishment",43.72487810000001,-79.4024901
+spa,4Seasons Massage+Acupuncture Clinic,"2 Carlton Street 720 Floor 7, Toronto",5,105,ChIJySY2BrM0K4gR-rEpNj2tTrM,"spa, health, point_of_interest, establishment",43.6616782,-79.3828415
+spa,Blue Canoe Yoga St Clair West,"934 Saint Clair Avenue West, Toronto",4.8,249,ChIJ4W-dtnk0K4gR-e8DSWkMpro,"gym, spa, health, point_of_interest, establishment",43.6799633,-79.4350813
+spa,Canadian Beauty College (Toronto Campus),"700 Lawrence Avenue West #450, Toronto",4.4,106,ChIJ6VJa0SQzK4gRNORnQ5aIuMY,"beauty_salon, spa, school, hair_care, health, point_of_interest, establishment",43.7166569,-79.4472576
+stadium,Rogers Centre,"1 Blue Jays Way, Toronto",4.5,33113,ChIJUUpqttc0K4gRBRQL_vayEOI,"stadium, tourist_attraction, point_of_interest, establishment",43.64157579999999,-79.3894282
+stadium,Scotiabank Arena,"40 Bay Street, Toronto",4.5,35128,ChIJCb81WSvL1IkREJRm1efQQlg,"stadium, point_of_interest, establishment",43.6434661,-79.3790989
+stadium,Monarch Park Stadium,"1 Parkmount Road, Toronto",4.3,758,ChIJ61VfkXDM1IkRmHZNQUPhv0E,"stadium, point_of_interest, establishment",43.6784421,-79.3229217
+stadium,Brockton Stadium,"515 Brock Avenue, Toronto",4.3,72,ChIJOUh_z0Q0K4gRRVxw2DOmQCg,"stadium, point_of_interest, establishment",43.65693009999999,-79.4377461
+stadium,Varsity Centre,"299 Bloor Street West, Toronto",4.5,455,ChIJMZE5kLs0K4gRjY1nUNCna1Y,"stadium, point_of_interest, establishment",43.66705289999999,-79.3972706
+stadium,Allan A. Lamport Stadium,"1155 King Street West, Toronto",4.3,1163,ChIJHaUF0gA1K4gRdX2PJl93IUA,"stadium, point_of_interest, establishment",43.63979800000001,-79.42248750000002
+stadium,BMO Field,"170 Princes' Boulevard, Toronto",4.5,7481,ChIJUUPv9gU1K4gRLQy397NpIZ0,"stadium, point_of_interest, establishment",43.6331702,-79.4186162
+stadium,Larry Grossman Forest Hill Memorial Arena,"340 Chaplin Crescent, Toronto",4.3,325,ChIJDQSB3gszK4gRTCeLGmjZj0s,"stadium, restaurant, food, point_of_interest, establishment",43.7040093,-79.42029959999999
+stadium,Leaside Memorial Arena,"1073 Millwood Road, Toronto",4.4,402,ChIJPbXt7cLM1IkRM2vxEtFL77c,"stadium, point_of_interest, establishment",43.7018897,-79.36098299999999
+stadium,George Bell Arena,"215 Ryding Avenue, Toronto",4.2,231,ChIJ6-_2Q6I2K4gRT162b5mOsQA,"stadium, point_of_interest, establishment",43.668565,-79.4768981
+stadium,Central Tech Stadium,"725 Bathurst Street, Toronto",4.5,622,ChIJbTHlW5M0K4gRoLuU9K9Tgp4,"stadium, point_of_interest, establishment",43.6632122,-79.4091803
+stadium,Lamport Stadium,"1151 King Street West, Toronto",N/A,N/A,ChIJfaZ7YcY1K4gRc8ajLz2Sv4g,"stadium, point_of_interest, establishment",43.6389869,-79.4232321
+stadium,Lakeshore Public Tennis courts,"Net Drive, Toronto",N/A,N/A,ChIJ__8_3bo1K4gRqKP0RMD2Hh8,"stadium, point_of_interest, establishment",43.63352829999999,-79.4379512
+stadium,Baycrest Arena,"160 Neptune Drive, North York",4.2,164,ChIJf7nQ304yK4gRTmwi2lvgkRQ,"stadium, point_of_interest, establishment",43.72893070000001,-79.4431314
+store,Chestnut Residence,"89 Chestnut Street, Toronto",3,168,ChIJMT5wCMw0K4gRnURiAF8kyLE,"university, lodging, store, point_of_interest, establishment",43.6545063,-79.3855665
+store,Canadian Tire,"839 Yonge Street, Toronto",4.1,2880,ChIJn2hKyK40K4gRjgBcA1T4Wxc,"department_store, home_goods_store, car_repair, store, point_of_interest, establishment",43.6737958,-79.3876391
+store,Best Buy,"147 Laird Drive, Toronto",3.7,1296,ChIJh-LKBNzM1IkRtrGqA3GUR_A,"electronics_store, home_goods_store, store, point_of_interest, establishment",43.7092551,-79.3616804
+store,The UPS Store,"52 Church Street, Toronto",3.5,172,ChIJK4EmQDLL1IkR3PbDDYBw-w4,"store, point_of_interest, establishment",43.6501354,-79.3746446
+store,Best Buy,"65 Dundas Street West, Toronto",3.6,3987,ChIJff6npcs0K4gRl4XWbIiEJtU,"electronics_store, home_goods_store, store, point_of_interest, establishment",43.6554395,-79.3824463
+store,Canadian Tire,"1025 Lake Shore Boulevard East, Toronto",3.9,2760,ChIJIW41r57L1IkRFo0Eu06NztQ,"department_store, home_goods_store, car_repair, store, point_of_interest, establishment",43.65827789999999,-79.3286291
+store,Tip Top Lofts,"637 Lake Shore Boulevard West, Toronto",4.6,31,ChIJz3ZtcyI1K4gRXeqBERnWX4k,"store, point_of_interest, establishment",43.63537859999999,-79.4022785
+store,Hudson's Bay,"176 Yonge Street, Toronto",4.2,5865,ChIJmY_gODPL1IkRh54ohF5PpDo,"department_store, shoe_store, clothing_store, store, point_of_interest, establishment",43.6516651,-79.380136
+store,Urban Outfitters,"235 Yonge Street, Toronto",4,920,ChIJgfSHsTTL1IkR_y_UkI7r2kI,"clothing_store, shoe_store, home_goods_store, store, point_of_interest, establishment",43.6544667,-79.3799583
+store,Steve's Music Store,"415 Queen Street West, Toronto",4.5,1384,ChIJMeabGds0K4gR8nh6Yymnl6k,"store, point_of_interest, establishment",43.6488557,-79.3949165
+store,The UPS Store,"2100 Bloor Street West Ste 6, Toronto",4.3,272,ChIJTcTJACo0K4gRLnyRScInPbU,"store, point_of_interest, establishment",43.6524439,-79.4711243
+store,Home & Garden RONA / Toronto Stockyards,"110 West Toronto Street, Toronto",3.7,940,ChIJE7LjbnTO1IkRp4jaMb5DK2M,"furniture_store, home_goods_store, store, point_of_interest, establishment",43.6686315,-79.4705721
+store,The Home Depot,"1000 Gerrard Street East, Toronto",4,1766,ChIJ_22gMnnL1IkR-IX-pgRUjfE,"hardware_store, furniture_store, home_goods_store, store, point_of_interest, establishment",43.6693401,-79.3384056
+store,Stag Shop - Adult Sex Store,"239 Yonge Street, Toronto",4.9,670,ChIJ49rxszTL1IkRbWnTV7JyP9s,"clothing_store, store, point_of_interest, establishment",43.65465639999999,-79.3800041
+store,The UPS Store,"720 King Street West #125, Toronto",3.2,221,ChIJ9R8lZOA0K4gRhiwb-XcanIg,"store, point_of_interest, establishment",43.6439342,-79.4042388
+store,The UPS Store,"777 Bay Street Unit C208B, Toronto",4.5,251,ChIJY81FE7E0K4gREkouyjjJYjs,"store, point_of_interest, establishment",43.660489,-79.384447
+store,The UPS Store,"455 Danforth Avenue, Toronto",2.9,166,ChIJmXJZUJ7M1IkReNArvDrldqg,"store, point_of_interest, establishment",43.6777162,-79.35030119999999
+store,Canadian Tire,"Lawrence Square Shopping Centre, 700 Lawrence Avenue West, Toronto",3.8,2066,ChIJS73d4ckzK4gR9UZR519yqLY,"department_store, home_goods_store, car_repair, store, point_of_interest, establishment",43.7164191,-79.44802469999999
+store,Metro,"735 College Street, Toronto",4,1730,ChIJ7fBhKPE0K4gRLDLhCYYsWVk,"supermarket, grocery_or_supermarket, food, store, point_of_interest, establishment",43.65418,-79.4194151
+store,Sporting Life,"2665 Yonge Street, Toronto",3.9,1428,ChIJp3smYSAzK4gRGqvtU6S_kus,"shoe_store, clothing_store, store, point_of_interest, establishment",43.7164154,-79.400002
+subway_station,Bay,"1240 Bay Street, Toronto",4.3,100,ChIJm0K48680K4gR6dZgUkluQOc,"subway_station, transit_station, point_of_interest, establishment",43.6703296,-79.3899933
+subway_station,St George,"139 Saint George Street, Toronto",4.1,126,ChIJzVoPu7w0K4gRZZZFD1SQ4Pc,"subway_station, transit_station, point_of_interest, establishment",43.6682821,-79.3998421
+subway_station,Spadina,"Spadina Avenue, Toronto",3.8,158,ChIJi2m_MJY0K4gROS5RDF303-I,"transit_station, subway_station, point_of_interest, establishment",43.6671711,-79.40435339999999
+subway_station,Davisville,Canada,4,70,ChIJhb38s0AzK4gRaXiw71nf7r4,"subway_station, transit_station, point_of_interest, establishment",43.69765699999999,-79.39707980000001
+subway_station,Runnymede Station,"2218 Bloor Street West, Toronto",3.9,68,ChIJvb8HuoA2K4gRuDaBMun8jzw,"subway_station, transit_station, point_of_interest, establishment",43.65172069999999,-79.475939
+subway_station,Donlands Station,Canada,1.8,18,ChIJ4UY4rIfM1IkRtf5xH2t9CvI,"subway_station, transit_station, point_of_interest, establishment",43.6809818,-79.3378352
+subway_station,Queen,"8 Queen Street West, Toronto",4.2,151,ChIJ008bRjPL1IkRpj3zLR3NXPU,"subway_station, transit_station, point_of_interest, establishment",43.6523969,-79.3792228
+subway_station,Dundas Station,Canada,4.1,150,ChIJA83S28o0K4gRtNsLx8WHVVc,"subway_station, transit_station, point_of_interest, establishment",43.6562811,-79.380459
+subway_station,Osgoode,Toronto,4.4,134,ChIJuRKjbs40K4gRpjo9dzpNCV0,"subway_station, transit_station, point_of_interest, establishment",43.65061439999999,-79.38683139999999
+subway_station,St Patrick Station,Canada,4.1,89,ChIJL5IHLck0K4gRlEMj12MpSDg,"subway_station, transit_station, point_of_interest, establishment",43.6548308,-79.38834849999999
+subway_station,King,"3 King Street East, Toronto",3.9,94,ChIJrW9jgzLL1IkRdboD--ke41g,"subway_station, transit_station, point_of_interest, establishment",43.6491523,-79.37785989999999
+subway_station,St Andrew,Toronto,4.2,112,ChIJBUO9MNI0K4gRmGooP0jN7PY,"subway_station, transit_station, point_of_interest, establishment",43.6476574,-79.3848079
+subway_station,College Station,"3 Carlton Street, Toronto",3.6,155,ChIJBfFOB7U0K4gRX6XeZ3-82AY,"subway_station, transit_station, point_of_interest, establishment",43.6613247,-79.3830746
+subway_station,Union Station,"55 Front Street West, Toronto",4.2,147,ChIJtarowyzL1IkR6tDG0nanhyg,"subway_station, transit_station, point_of_interest, establishment",43.6452213,-79.3806034
+subway_station,Queen's Park,Canada,4.2,77,ChIJbY5c5Lc0K4gRAgWZau0Nufw,"subway_station, transit_station, point_of_interest, establishment",43.6598804,-79.3904768
+subway_station,Wellesley,Canada,3.7,41,ChIJLziSqLM0K4gRygeYFmwRLRQ,"subway_station, transit_station, point_of_interest, establishment",43.66552129999999,-79.3838167
+subway_station,Museum Station,Toronto,4.4,137,ChIJuZ0WWbo0K4gRAgcOznun6wM,"subway_station, transit_station, point_of_interest, establishment",43.6670059,-79.3934342
+subway_station,Bloor-Yonge,Canada,3.9,334,ChIJ-ZhlKqw0K4gRYh3KTlznUok,"subway_station, transit_station, point_of_interest, establishment",43.671043,-79.38591799999999
+subway_station,Sherbourne,Canada,3.6,93,ChIJTZQ3i1PL1IkRfx_CcePfZzY,"subway_station, transit_station, point_of_interest, establishment",43.6721666,-79.3764313
+subway_station,Castle Frank,Canada,3.8,85,ChIJabvd1VnL1IkR0G5x8MpK7Bw,"subway_station, transit_station, point_of_interest, establishment",43.6737948,-79.3686386
+synagogue,Zichron Shneur,"2801 Bathurst Street, North York",5,6,ChIJ_y--AKkzK4gRhrwOU5l9I28,"synagogue, place_of_worship, point_of_interest, establishment",43.7129976,-79.4280077
+synagogue,Beth Tzedec Congregation,"1700 Bathurst Street, York",4.6,56,ChIJ5w2CC3YzK4gRs_mAQU0_fLk,"synagogue, place_of_worship, point_of_interest, establishment",43.695488,-79.423451
+synagogue,Anshei Minsk,"10 Saint Andrew Street, Toronto",4.8,36,ChIJ4xXst8M0K4gRJvHi94SUMnc,"synagogue, place_of_worship, point_of_interest, establishment",43.6544623,-79.39951429999999
+synagogue,Holy Blossom Temple,"1950 Bathurst Street, York",4.7,56,ChIJ5wpzZXUzK4gRm0lLcqHyhI0,"synagogue, place_of_worship, point_of_interest, establishment",43.6982681,-79.4251784
+synagogue,Annex Shul,"36 Harbord Street, Toronto",5,1,ChIJK65a8r40K4gRg4GdYIKyX3s,"synagogue, place_of_worship, point_of_interest, establishment",43.663601,-79.40048999999999
+synagogue,First Narayever Congregation,"187 Brunswick Avenue, Toronto",4.8,9,ChIJNcBAUes0K4gRQhM7WWLovTo,"synagogue, place_of_worship, point_of_interest, establishment",43.6628348,-79.4060156
+synagogue,Chabad of Downtown Toronto,"15A Clarence Square, Toronto",5,21,ChIJC_Dukdk0K4gR9ZK2rU-IDbw,"synagogue, place_of_worship, point_of_interest, establishment",43.6448372,-79.39341089999999
+synagogue,Forest Hill Jewish Centre,"360 Spadina Road, Toronto",4.8,48,ChIJYwrSk2QzK4gRFHv67dnCZy8,"synagogue, place_of_worship, point_of_interest, establishment",43.6860805,-79.41195499999999
+synagogue,Viewmount Shul (Congregation Toras Emes),"1 Viewmount Avenue, North York",4.7,36,ChIJsXHceKgzK4gRZz_Gio__9xA,"synagogue, place_of_worship, point_of_interest, establishment",43.7102268,-79.4279928
+synagogue,Shomrai Shabbos,"585 Glengrove Avenue West, North York",4.6,61,ChIJE8GXxq8zK4gRJPgUQPw5pX4,"synagogue, place_of_worship, point_of_interest, establishment",43.7123632,-79.4356588
+synagogue,Congregation Knesseth Israel,"56 Maria Street, Toronto",4.9,12,ChIJpb4aSZ82K4gRFYBKQorEgz0,"synagogue, place_of_worship, point_of_interest, establishment",43.6664583,-79.4754799
+synagogue,Bais Dov Yosef,"3407 Bathurst Street, North York",5,6,ChIJGz4eLFEyK4gRx-0KwkRLGN4,"synagogue, place_of_worship, point_of_interest, establishment",43.72690960000001,-79.43130289999999
+synagogue,Stashover-Slipia Congregation,"11 Sultana Avenue, North York",4.5,2,ChIJfw9KuVAyK4gRs7uzmtmmjRk,"synagogue, place_of_worship, point_of_interest, establishment",43.7284329,-79.4326497
+synagogue,Shaarei Shomayim,"470 Glencairn Avenue, North York",4.5,68,ChIJW99PtakzK4gRQTN2ISeG73M,"synagogue, place_of_worship, point_of_interest, establishment",43.71300339999999,-79.4271868
+synagogue,Beach Hebrew Institute,"109 Kenilworth Avenue, Toronto",4.8,12,ChIJ0QnZAvjL1IkR9ipE76XK7M8,"synagogue, place_of_worship, point_of_interest, establishment",43.6693005,-79.30155769999999
+synagogue,Shaarei Tzedec Congregation- The Markham Street Shul,"397 Markham Street, Toronto",5,7,ChIJ9QAY8uw0K4gR9jD9QK193HI,"synagogue, place_of_worship, point_of_interest, establishment",43.6595323,-79.410004
+synagogue,Cong. Chasidei Bobov,"3703 Bathurst Street, North York",4.8,46,ChIJYS5meVwyK4gR4NkiAKXaEOc,"synagogue, place_of_worship, point_of_interest, establishment",43.7350276,-79.4332257
+synagogue,The Kiever Shul,"25 Bellevue Avenue, Toronto",4.6,34,ChIJSbuI1uk0K4gRq1Iwvgq98fg,"tourist_attraction, synagogue, place_of_worship, point_of_interest, establishment",43.65386369999999,-79.40305959999999
+synagogue,Beth Sholom Synagogue,"1445 Eglinton Avenue West, York",4.2,10,ChIJXx1saJczK4gRBFDVmUfF-zw,"synagogue, place_of_worship, school, point_of_interest, establishment",43.69815999999999,-79.4375562
+synagogue,The Village Shul,"1072 Eglinton Avenue West, Toronto",4.8,54,ChIJ5-liypgzK4gR8LSPYRjSICc,"synagogue, place_of_worship, point_of_interest, establishment",43.6999752,-79.43133329999999
+tourist_attraction,Rogers Centre,"1 Blue Jays Way, Toronto",4.5,33113,ChIJUUpqttc0K4gRBRQL_vayEOI,"stadium, tourist_attraction, point_of_interest, establishment",43.64157579999999,-79.3894282
+tourist_attraction,Wychwood Barns Park,"76 Wychwood Avenue, Toronto",4.5,1533,ChIJIWclQ4A0K4gR8JAX-sYlRA8,"park, tourist_attraction, point_of_interest, establishment",43.67992780000001,-79.42319719999999
+tourist_attraction,Harbourfront Centre,"235 Queens Quay West, Toronto",4.6,20675,ChIJydISiio1K4gRlUBlxQfjf3Q,"tourist_attraction, museum, point_of_interest, establishment",43.638834,-79.3818785
+tourist_attraction,CN Tower,"290 Bremner Boulevard, Toronto",4.6,75213,ChIJmzrzi9Y0K4gRgXUc3sTY7RU,"tourist_attraction, point_of_interest, establishment",43.6425662,-79.3870568
+tourist_attraction,Casa Loma,"1 Austin Terrace, Toronto",4.5,29756,ChIJs6Elz500K4gRT1jWAsHIfGE,"museum, tourist_attraction, point_of_interest, establishment",43.67803709999999,-79.4094439
+tourist_attraction,Art Gallery of Ontario,"317 Dundas Street West, Toronto",4.7,17222,ChIJvRlT7cU0K4gRr0bg7VV3J9o,"tourist_attraction, museum, point_of_interest, establishment",43.6536066,-79.39251229999999
+tourist_attraction,Royal Ontario Museum,"100 Queens Park, Toronto",4.7,36974,ChIJE-Xa87o0K4gRkvXFHuE0hMk,"tourist_attraction, museum, point_of_interest, establishment",43.6677097,-79.3947771
+tourist_attraction,St. Lawrence Market,Toronto,4.6,36024,ChIJWyfdtDHL1IkR_bal8ay1Cso,"tourist_attraction, point_of_interest, establishment",43.64868790000001,-79.3715454
+tourist_attraction,Toronto City Hall,"100 Queen Street West, Toronto",4.4,979,ChIJ81rnZsw0K4gR4CIzkYYawjE,"city_hall, tourist_attraction, local_government_office, point_of_interest, establishment",43.6534399,-79.3840901
+tourist_attraction,Hockey Hall of Fame,"30 Yonge Street, Toronto",4.7,6102,ChIJsRjTsS3L1IkRC177bW2To_4,"museum, tourist_attraction, point_of_interest, establishment",43.6472722,-79.37769019999999
+tourist_attraction,Nathan Phillips Square,"100 Queen Street West, Toronto",4.6,37232,ChIJBxZ2UMw0K4gR1LmKMBvveP0,"tourist_attraction, point_of_interest, establishment",43.65270689999999,-79.38341369999999
+tourist_attraction,"Mount Pleasant Cemetery, Cremation and Funeral Centres","375 Mount Pleasant Road, Toronto",4.6,193,ChIJBQ_CaEozK4gRrjK-JXG1tbo,"cemetery, tourist_attraction, funeral_home, point_of_interest, establishment",43.6951388,-79.38126849999999
+tourist_attraction,Toronto Old City Hall,"60 Queen Street West, Toronto",4.6,674,ChIJ81rnZsw0K4gRHt0-k9sXvwA,"tourist_attraction, city_hall, local_government_office, point_of_interest, establishment",43.65251979999999,-79.38171559999999
+tourist_attraction,Medieval Times Dinner & Tournament,"10 Dufferin Street, Toronto",4.6,9173,ChIJPWn1Hgg1K4gRHRZxCH_uUCQ,"tourist_attraction, restaurant, food, point_of_interest, establishment",43.63265029999999,-79.4255262
+tourist_attraction,The Power Plant Contemporary Art Gallery,"231 Queens Quay West, Toronto",4.4,513,ChIJsWiClCo1K4gRclG33Mzc3qM,"art_gallery, tourist_attraction, point_of_interest, establishment",43.6384653,-79.3818612
+tourist_attraction,The Tall Ship Kajama,"235 Queens Quay West, Toronto",4.5,1779,ChIJD60i5io1K4gRwwJuwOLkK1w,"tourist_attraction, travel_agency, point_of_interest, establishment",43.638118,-79.38172229999999
+tourist_attraction,The Toronto Inukshuk Park,"789 Lake Shore Boulevard West, Toronto",4.5,284,ChIJ7ftopBA1K4gRdYf-wjwx0fQ,"park, tourist_attraction, point_of_interest, establishment",43.6324143,-79.40960040000002
+tourist_attraction,St. Patrick's Catholic Church,"137 McCaul Street, Toronto",4.8,526,ChIJKWI8VM80K4gRzqBlpQly284,"tourist_attraction, church, place_of_worship, point_of_interest, establishment",43.654761,-79.391346
+tourist_attraction,Leuty Lifeguard Station,Toronto,4.7,260,ChIJg6Qsxf7L1IkRCzlKcYSkVIM,"tourist_attraction, point_of_interest, establishment",43.6663772,-79.2950044
+tourist_attraction,Princes' Gates,"11 Princes' Boulevard, Toronto",4.6,782,ChIJlaKxMxo1K4gRGijKViP-tes,"tourist_attraction, point_of_interest, establishment",43.6346793,-79.4095262
+train_station,Union,"55 Front Street West, Toronto",4.3,2822,ChIJcTqTNNM0K4gRZR46MK6g2GM,"train_station, transit_station, point_of_interest, establishment",43.6452417,-79.3806321
+train_station,Exhibition GO,Canada,4.2,179,ChIJxQnrUAQ1K4gRKGpbEHK-ufk,"train_station, transit_station, point_of_interest, establishment",43.6358813,-79.4187599
+train_station,Greenwood Yard,"400 Greenwood Avenue, Toronto",3.7,74,ChIJL_tDjH7M1IkRfDJQI54RtLI,"transit_station, train_station, point_of_interest, establishment",43.6762156,-79.3311658
+train_station,Bloor GO,"1456 Bloor Street West, Toronto",3.7,110,ChIJjXshSTg0K4gRsx8UlKhwwd8,"train_station, transit_station, point_of_interest, establishment",43.65704299999999,-79.4501495
+train_station,Danforth,"213 Main Street, Toronto",4.1,116,ChIJL7z26RjM1IkRrrQg5r2S5Dc,"train_station, transit_station, point_of_interest, establishment",43.6864325,-79.30032829999999
+train_station,Mimico,Toronto,3.4,103,ChIJgWAN0yM2K4gRl-F7QwLPxYg,"train_station, transit_station, point_of_interest, establishment",43.61721409999999,-79.4964432
+transit_station,Standard Parking,"777 Bay Street, Toronto",N/A,N/A,ChIJnUz2uLU0K4gRn6oIo12dSMM,"bus_station, transit_station, point_of_interest, establishment",43.660489,-79.384447
+transit_station,Union,"55 Front Street West, Toronto",4.3,2822,ChIJcTqTNNM0K4gRZR46MK6g2GM,"train_station, transit_station, point_of_interest, establishment",43.6452417,-79.3806321
+transit_station,Hanlan's Point Ferry Dock,Toronto,4.3,31,ChIJkWm24zA1K4gRKdjGSBmuZGU,"transit_station, point_of_interest, establishment",43.62787489999999,-79.38895579999999
+transit_station,Ward's Island Ferry Dock,Toronto,4.7,50,ChIJcdFFYOfK1IkRHPy6OqZPqgw,"transit_station, point_of_interest, establishment",43.6313384,-79.3577081
+transit_station,Union Station,Canada,3.4,208,ChIJ-ZiXS9M0K4gR58bNfEy2G1U,"transit_station, point_of_interest, establishment",43.6452621,-79.3805536
+transit_station,St. George Subway Station,Canada,2.8,12,ChIJKUTM47w0K4gRLHmVVEkpnjk,"transit_station, point_of_interest, establishment",43.6682622,-79.39985829999999
+transit_station,Toronto - Union,"81 Bay Street, Toronto",3.8,179,ChIJSSKd7yzL1IkRBU51kFDszmk,"bus_station, transit_station, point_of_interest, establishment",43.6440132,-79.3761847
+transit_station,Bay,"1240 Bay Street, Toronto",4.3,100,ChIJm0K48680K4gR6dZgUkluQOc,"subway_station, transit_station, point_of_interest, establishment",43.6703296,-79.3899933
+transit_station,St George,"139 Saint George Street, Toronto",4.1,126,ChIJzVoPu7w0K4gRZZZFD1SQ4Pc,"subway_station, transit_station, point_of_interest, establishment",43.6682821,-79.3998421
+transit_station,Spadina,"Spadina Avenue, Toronto",3.8,158,ChIJi2m_MJY0K4gROS5RDF303-I,"transit_station, subway_station, point_of_interest, establishment",43.6671711,-79.40435339999999
+transit_station,Exhibition GO,Canada,4.2,179,ChIJxQnrUAQ1K4gRKGpbEHK-ufk,"train_station, transit_station, point_of_interest, establishment",43.6358813,-79.4187599
+transit_station,Davisville,Canada,4,70,ChIJhb38s0AzK4gRaXiw71nf7r4,"subway_station, transit_station, point_of_interest, establishment",43.69765699999999,-79.39707980000001
+transit_station,Runnymede Station,Canada,3.2,9,ChIJ6yavNIE2K4gREdazy6T7Rvk,"transit_station, point_of_interest, establishment",43.6516966,-79.4759794
+transit_station,Runnymede Station,"2218 Bloor Street West, Toronto",3.9,68,ChIJvb8HuoA2K4gRuDaBMun8jzw,"subway_station, transit_station, point_of_interest, establishment",43.65172069999999,-79.475939
+transit_station,Greenwood Yard,"400 Greenwood Avenue, Toronto",3.7,74,ChIJL_tDjH7M1IkRfDJQI54RtLI,"transit_station, train_station, point_of_interest, establishment",43.6762156,-79.3311658
+transit_station,Yorkdale Bus Terminal,"1 Yorkdale Road, North York",3.8,73,ChIJKTtG7zYyK4gR9x5GTtJsAt8,"bus_station, transit_station, point_of_interest, establishment",43.7250982,-79.4490556
+transit_station,Jack Layton Ferry Terminal,"9 Queens Quay West, Toronto",4,1157,ChIJOzGyPSrL1IkRZ0ngcKOvN0k,"transit_station, point_of_interest, establishment",43.6404124,-79.3757241
+transit_station,Bay St at Albert St,Canada,N/A,N/A,ChIJwRE1jMw0K4gRPhlxVY7xNPA,"transit_station, point_of_interest, establishment",43.652992,-79.38264
+transit_station,Bay St at Hagerman St,Canada,N/A,N/A,ChIJJbFygss0K4gRZHfcxviRUe0,"transit_station, point_of_interest, establishment",43.65448559999999,-79.38337539999999
+transit_station,Queen St West at Bay St,Canada,N/A,N/A,ChIJ19CG3cw0K4gREb_oG1z2aTk,"transit_station, point_of_interest, establishment",43.65191739999999,-79.38173979999999
+travel_agency,G Adventures,"19 Charlotte Street, Toronto",3.3,104,ChIJq0yfN9o0K4gRe6fqXMPodtg,"travel_agency, point_of_interest, establishment",43.64648169999999,-79.3937509
+travel_agency,Flight Centre,"50 Bloor Street West C24, Toronto",4.3,151,ChIJpWucHbI0K4gRJPr-wsBNYNM,"travel_agency, point_of_interest, establishment",43.67047189999999,-79.3882842
+travel_agency,Flight Centre,"55 Yonge Street Suite 102, Toronto",4.2,127,ChIJP_Seoi3L1IkRvK79x7yNv0A,"travel_agency, point_of_interest, establishment",43.6483645,-79.3773784
+travel_agency,TTI Travel,"35 The Esplanade #200, Toronto",3.5,12,ChIJZypZ1i3L1IkRdhBX_uILmos,"travel_agency, point_of_interest, establishment",43.646235,-79.3750994
+travel_agency,天宝旅游 Tian Bao Travel Downtown,"222 Spadina Avenue unit 119, Toronto",4.4,103,ChIJywlhWcM0K4gRXOZQ_4jpR9M,"travel_agency, point_of_interest, establishment",43.6507675,-79.39776239999999
+travel_agency,The Tall Ship Kajama,"235 Queens Quay West, Toronto",4.5,1779,ChIJD60i5io1K4gRwwJuwOLkK1w,"tourist_attraction, travel_agency, point_of_interest, establishment",43.638118,-79.38172229999999
+travel_agency,The Magic Bus Company,"274 Unwin Avenue, Toronto",3.3,10,ChIJ7-fFGBfL1IkRg8dKnfHg26Y,"travel_agency, point_of_interest, establishment",43.64217969999999,-79.3415888
+travel_agency,CAA Store - Don Mills,"20 Marie Labatte Road Unit B008C, Toronto",4.2,537,ChIJjRecAm7N1IkRgbe2SS0gDoM,"insurance_agency, travel_agency, store, point_of_interest, establishment",43.7343602,-79.3464044
+travel_agency,747 Travel,"2182 Dundas Street West, Toronto",4.1,27,ChIJYxnNADc0K4gRBZMMxUZsUOM,"travel_agency, point_of_interest, establishment",43.6534755,-79.4507861
+travel_agency,Canadian Himalayan Expeditions Ltd,"140 Yonge Street, Toronto",5,3,ChIJRST7PzLL1IkRNZYkquDi_Tw,"travel_agency, point_of_interest, establishment",43.6511696,-79.3788963
+travel_agency,Safeway Tours,"30 Carlton Street, Toronto",4.6,1550,ChIJgSGOxbQ0K4gR5ZGuV7SGhMI,"travel_agency, point_of_interest, establishment",43.6617315,-79.3812002
+travel_agency,Jubilee Queen Cruises,"539 Queens Quay West, Toronto",3.7,104,ChIJX-YHICo1K4gRUkvOXJTUIbo,"travel_agency, point_of_interest, establishment",43.63568269999999,-79.3949829
+travel_agency,Temple & Temple Tours Inc.,"819 Yonge Street 2nd Floor, Toronto",3.9,64,ChIJvWEYvq80K4gRVCVnFS4B9hA,"travel_agency, point_of_interest, establishment",43.67266789999999,-79.3874858
+travel_agency,Charter Miss Toronto,"539 Queens Quay West, Toronto",4.1,34,ChIJV1yvhSY1K4gRatJwUgugGeE,"travel_agency, point_of_interest, establishment",43.6361519,-79.3956666
+travel_agency,Visa Connection,"67 Yonge Street Suite 1202, Toronto",4.3,26,ChIJB3CcEqU0K4gRzCpEN4gdshc,"travel_agency, point_of_interest, establishment",43.6487438,-79.3774881
+travel_agency,AceMedTour,Canada,N/A,N/A,ChIJ97KwYinL1IkR3pILCw3Uc1Y,"travel_agency, point_of_interest, establishment",43.6424362,-79.374552
+travel_agency,Camp Canada,"150 Eglinton Avenue East, Toronto",5,15,ChIJZYaxqXUzK4gRUQ4e5ixgVe0,"travel_agency, point_of_interest, establishment",43.7078521,-79.3940235
+travel_agency,Ontario Travel Information Centre - Toronto,"65 Front Street West, Toronto",4.4,93,ChIJpUtn38o0K4gRHkGugY376sk,"travel_agency, point_of_interest, establishment",43.6448107,-79.3817767
+travel_agency,411travelbuys.ca,"588 Danforth Avenue #1, Toronto",4.2,16,ChIJy3-5iqY0K4gRvttKFY3StYY,"travel_agency, point_of_interest, establishment",43.678777,-79.34674299999999
+travel_agency,U23 inc. (U23 Toronto),"192 Spadina Avenue, Toronto",5,1,ChIJSXwM7K40K4gR7_V322wvFHo,"school, travel_agency, point_of_interest, establishment",43.6500304,-79.39722789999999
+university,Chestnut Residence,"89 Chestnut Street, Toronto",3,168,ChIJMT5wCMw0K4gRnURiAF8kyLE,"university, lodging, store, point_of_interest, establishment",43.6545063,-79.3855665
+university,Toronto Metropolitan University,"350 Victoria Street, Toronto",4.1,999,ChIJlRMcQzXL1IkR9NYlkdaL7eg,"university, point_of_interest, establishment",43.6576585,-79.3788017
+university,George Brown College,"160 Kendal Avenue, Toronto",3.5,524,ChIJf3IUfpw0K4gRDfOavQVu0Is,"university, point_of_interest, establishment",43.6760427,-79.41072840000001
+university,The Michener Institute of Education,"222 Saint Patrick Street, Toronto",4.4,84,ChIJLaPDusg0K4gRosutwyySllk,"university, school, point_of_interest, establishment",43.655743,-79.3913022
+university,Mowat Block,"Mowat Block, 14, 900 Bay Street, Toronto",3.9,7,ChIJD43VxbY0K4gRcNHjtczR_jk,"university, point_of_interest, establishment",43.6633983,-79.3875479
+university,Havergal College,"1451 Avenue Road, Toronto",4.3,44,ChIJA-LzJP0yK4gRWZVjDHaQNm8,"university, school, point_of_interest, establishment",43.720253,-79.4134179
+university,Centennial College - Story Arts Centre,"951 Carlaw Avenue, Toronto",4.5,94,ChIJMZxuZJDM1IkRvurXx10RKAg,"university, point_of_interest, establishment",43.6847261,-79.3488439
+university,University of Toronto Faculty of Law,"78 Queens Park, Toronto",4.2,33,ChIJ58XarLs0K4gRQXvlvmgDF_k,"university, point_of_interest, establishment",43.6666568,-79.39394329999999
+university,Medix College,"700 Lawrence Avenue West Suite 300, North York",4.4,167,ChIJu0YJFbYzK4gRRps2eGjXsrQ,"university, school, point_of_interest, establishment",43.7170739,-79.4479747
+university,Ontario College of Pharmacists,"483 Huron Street, Toronto",1.7,39,ChIJbxoZab00K4gRHetZijUMfjc,"university, point_of_interest, establishment",43.6688172,-79.4017313
+university,University of Toronto,"27 King's College Circle, Toronto",4.4,1990,ChIJm_0x87g0K4gR93ZadrabHY0,"university, school, point_of_interest, establishment",43.663487,-79.3958273
+university,Woodsworth College,"119 Saint George Street, Toronto",4.7,26,ChIJH-mgT7w0K4gRTllh2m-7oRw,"university, point_of_interest, establishment",43.6663161,-79.3990297
+university,College of Physicians and Surgeons of Ontario,"80 College Street, Toronto",1.5,169,ChIJzzhRaLY0K4gRWdOdpc9eFsI,"university, point_of_interest, establishment",43.6607676,-79.3872533
+university,"Leslie Dan Faculty of Pharmacy, University of Toronto","144 College Street, Toronto",4.3,26,ChIJmWP-97c0K4gRiyA5AwOlLjY,"university, school, point_of_interest, establishment",43.6598101,-79.3918265
+university,"Canadian Business College, Toronto Campus","2 Bloor Street West 22nd Floor, Toronto",3.4,76,ChIJ96IEQq40K4gRj59fSA4CuRY,"university, point_of_interest, establishment",43.67033,-79.387232
+university,Canadian School of Private Investigation and Security Ltd.,"2828 Dufferin Street, North York",4.7,57,ChIJg3zFZMEzK4gRc-g7-nEa5y4,"university, school, point_of_interest, establishment",43.70595589999999,-79.4534351
+university,Greystone College Toronto,"80 Bloor Street West 8th floor, Toronto",4.8,211,ChIJy7M-M8k0K4gRV3CognU5h6w,"university, school, point_of_interest, establishment",43.6699612,-79.39015359999999
+university,Academy of Design,"1835 Yonge Street 2nd Floor, Toronto",4.5,2,ChIJ_ZXQOEczK4gRU0XuyOlMV5s,"university, point_of_interest, establishment",43.696708,-79.3961048
+university,Academy of Learning College,"29 Gervais Drive Unit 103, North York",4.1,12,ChIJzexan4TM1IkRgqlg-gqHkxU,"university, point_of_interest, establishment",43.7246964,-79.33678619999999
+university,College of Audiologists and Speech-Language Pathologists of Ontario,"175 Bloor Street East Suite 601, Toronto",5,2,ChIJq6qqqs8yK4gRG1c7afHNCyY,"university, point_of_interest, establishment",43.6708475,-79.3824377
+zoo,High Park Zoo,Toronto,4.4,2487,ChIJw3qsGdI1K4gRfEtEXcPGDdM,"zoo, tourist_attraction, park, point_of_interest, establishment",43.6427676,-79.46143239999999
+zoo,Shooters International Inc,"63 Berkeley Street, Toronto",4,2,ChIJwYK2XjnL1IkRBIRu-yQZDZ0,"zoo, point_of_interest, establishment",43.6525843,-79.3644173
+zoo,PANDALAND,"727 Markham Street, Toronto",4.6,5,ChIJVc1hZNA1K4gRnoDkeVPRlow,"park, zoo, point_of_interest, establishment",43.6676286,-79.4132726
+zoo,Barkdale Toronto,"70 Close Avenue, Toronto",N/A,N/A,ChIJtx8MgpE1K4gR2lnEs2XOcz0,"zoo, point_of_interest, establishment",43.6352614,-79.4342585
+zoo,Once upon a pond,"MM7P+8Q, Toronto",5,1,ChIJAVyXHnjL1IkR9GV2PJWvzLQ,"zoo, point_of_interest, establishment",43.6633719,-79.313116
+zoo,The Quarry,"Kenworthy Park, 2A Kenworthy Avenue, Scarborough",5,1,ChIJ3RNqfznP1IkRg0seoNW7D0o,"park, zoo, point_of_interest, establishment",43.6897493,-79.2824376
+restaurant,The Drake Hotel,"1150 Queen Street West, Toronto",4.3,5249,ChIJ8b_aGgA1K4gR3n2TF4fM1Es,"bar, lodging, restaurant, food, point_of_interest, establishment",43.6432497,-79.4246963
+restaurant,Fairmont Royal York,"100 Front Street West, Toronto",4.4,11457,ChIJYY4qFdM0K4gRDydzDiP-VAE,"lodging, restaurant, food, point_of_interest, establishment",43.6460303,-79.381388
+restaurant,Gladstone House,"1214 Queen Street West, Toronto",4.4,2785,ChIJwScp6qo1K4gRcuheo9LY6ZI,"art_gallery, bar, lodging, restaurant, food, point_of_interest, establishment",43.642698,-79.426906
+restaurant,Windsor Arms Hotel,"18 Saint Thomas Street, Toronto",3.9,1255,ChIJZejXHbA0K4gRVuq7QVSGyNI,"spa, lodging, restaurant, food, point_of_interest, establishment",43.66883109999999,-79.3909348
+restaurant,The Rex Hotel Jazz and Blues Bar,"194 Queen Street West, Toronto",4.4,3525,ChIJUxg5Mc40K4gRqeelKegdE3c,"night_club, bar, lodging, restaurant, food, point_of_interest, establishment",43.6505964,-79.3885233
+restaurant,HOTEL OCHO,"195 Spadina Avenue, Toronto",4.3,703,ChIJM9YdEZk0K4gRxwikpBboKTM,"bar, lodging, restaurant, food, point_of_interest, establishment",43.6500042,-79.39639
+restaurant,Marquis Lounge and Bistro,"92 Peter Street, Toronto",4.4,9,ChIJd2daaNo0K4gRwWZtnRjAxgs,"restaurant, bar, food, point_of_interest, establishment",43.6469792,-79.3932286
+restaurant,7 West Cafe,"7 Charles Street West, Toronto",4,3078,ChIJs_Gr4rE0K4gR4PCci36eEkg,"cafe, meal_delivery, bar, meal_takeaway, restaurant, food, point_of_interest, establishment",43.6684876,-79.386714
+restaurant,Adega Restaurante,"33 Elm Street, Toronto",4.5,748,ChIJWeGuX8o0K4gR0CrzlkI2Z5c,"restaurant, food, point_of_interest, establishment",43.6574337,-79.3832666
+restaurant,Terroni,"57 Adelaide Street East, Toronto",4.2,6320,ChIJT1kRzTPL1IkRqYD-w3lcprg,"restaurant, food, point_of_interest, establishment",43.6509246,-79.3756963
+restaurant,The Keg Steakhouse + Bar - York Street,"165 York Street, Toronto",4.5,4167,ChIJ5V02ks00K4gRYYwaCejHhEE,"restaurant, bar, food, point_of_interest, establishment",43.6499945,-79.3839517
+restaurant,Jump Restaurant,"18 Wellington Street West, Toronto",4.2,1032,ChIJMT8zEy3L1IkRndhPq4mIQXk,"bar, restaurant, food, point_of_interest, establishment",43.64779109999999,-79.3782409
+restaurant,The Senator,"249 Victoria Street, Toronto",4.3,1481,ChIJWcH-2zTL1IkRqB8N3YUw6-I,"restaurant, food, point_of_interest, establishment",43.6557062,-79.37917379999999
+restaurant,Real Sports,"15 York Street, Toronto",4.2,5180,ChIJt7OCSivL1IkRqoZxo87YSYc,"bar, restaurant, food, point_of_interest, establishment",43.64259329999999,-79.3800048
+restaurant,Donatello Restaurant,"37 Elm Street, Toronto",4.3,1416,ChIJ7ZeFXso0K4gRqGxxcej0DjY,"restaurant, food, point_of_interest, establishment",43.6573753,-79.383461
+restaurant,Jack Astor's Bar & Grill Front Street,"144 Front Street West, Toronto",4.2,7522,ChIJK2lqhdM0K4gRRLfXBys5VBc,"bar, restaurant, food, point_of_interest, establishment",43.6454042,-79.383916
+restaurant,Tim Hortons,"55 York Street, Toronto",3.9,1731,ChIJcfAUD9M0K4gRaEg0EJkSGKo,"cafe, bakery, restaurant, food, store, point_of_interest, establishment",43.6461046,-79.3825715
+restaurant,Canoe,"66 Wellington Street West 54th floor, Toronto",4.4,3238,ChIJKSp50NI0K4gR6C6L3yYqpYY,"bar, restaurant, food, point_of_interest, establishment",43.6475793,-79.38090369999999
+restaurant,Salad King,"340 Yonge Street, Toronto",4.2,4525,ChIJ2Uabx8o0K4gR0prH0ZEi390,"meal_delivery, meal_takeaway, restaurant, food, point_of_interest, establishment",43.6577202,-79.3816274
+restaurant,Scotland Yard Pub,"56 The Esplanade, Toronto",4.4,2105,ChIJFy2acS7L1IkRpOsjQVss1yw,"bar, restaurant, food, point_of_interest, establishment",43.6470917,-79.37404169999999
