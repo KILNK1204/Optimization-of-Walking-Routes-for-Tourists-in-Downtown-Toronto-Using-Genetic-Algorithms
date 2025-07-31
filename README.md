@@ -1,6 +1,6 @@
 # Optimization of Walking Routes for Tourists in Downtown Toronto
 
-This project presents a hybrid algorithm that optimizes walking routes for tourists visiting downtown Toronto. By combining Genetic Algorithms (GA) with Depth-First Search (DFS), the model generates scenic and efficient walking paths that start and end at a user-defined location.
+This project presents a hybrid algorithm that optimizes walking routes for tourists visiting downtown Toronto. By combining Genetic Algorithms (GA) with other search algorithms, the model generates scenic and efficient walking paths that start and end at a user-defined location.
 
 ## Project Objective
 
